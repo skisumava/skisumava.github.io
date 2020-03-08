@@ -458,33 +458,3 @@ footer #partners-footer a#footer-partner-cyklostar {
 		margin-bottom: 0px;
 	}
 }
-
-@media (min-width:768px)
-{
-
-	#projects  div.col-md-6 {
-        padding-right: 2px;
-        padding-left: 2px;
-    }
-
-	#projects .row div:nth-child(odd) {
-		padding-right: 5px;
-	}
-
-	#projects .row div:nth-child(even) {
-		padding-left: 5px;
-	}
-
-    footer #partners-footer  div.col-md-3 {
-        padding-right: 3px;
-        padding-left: 3px;
-    }
-
-    footer #partners-footer  div.col-md-3:first-of-type{
-        padding-left: 15px;
-    }
-
-    footer #partners-footer  div.col-md-3:last-of-type{
-        padding-right: 15px;
-    }
-}
