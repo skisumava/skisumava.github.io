@@ -1,0 +1,490 @@
+---
+---
+/* modify Bootstrap variables here */
+
+@import 'bootstrap/bootstrap';
+
+/* add additional CSS rules below */
+
+.header {
+	background-attachment: fixed;
+	background-position: top center;
+	background-size: cover;
+}
+
+#masthead .overlay-layer-wrap {
+    background-image: url(/img/header-bg.jpg);
+    background-position:  50% 20%;
+    background-size: cover;
+    margin-top: -30px;
+}
+
+.overlay-layer-wrap {
+    background: rgba(13, 60, 85, 0.8);
+    position: relative;
+    z-index: -1;
+}
+
+header .overlay-layer {
+    height: auto;
+    padding-bottom: 20px;
+    padding-top: 380px;
+    text-align:center;
+}
+
+h1.intro {
+    font-size: 3.75rem;
+    line-height: 5rem;
+    text-align: center;
+    font-weight: 900;
+    color:white;
+}
+
+.intro-section {
+    background-color: white;
+    padding: 15px 60px;
+    background: rgba(249, 192, 2, 0.85);
+}
+
+.intro-section h5 {
+    margin-top: 13px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+@media  (max-width:991px) {
+    h1.intro {
+        font-size: 3rem;
+        line-height: 4rem;
+        text-align: center;
+        font-weight: 900;
+    }
+
+    .intro-section {
+        padding: 15px 45px;
+    }
+
+    header .overlay-layer {
+        padding-top: 250px;
+    }
+}
+
+
+nav.bg-dark {
+    background-color: black !important;
+}
+
+.roundedAll {
+    -moz-border-radius: 18px;
+    -webkit-border-radius: 18px;
+    border-radius: 18px;
+}
+
+.roundedAll-large {
+    -moz-border-radius: 36px;
+    -webkit-border-radius: 36px;
+    border-radius: 36px;
+}
+
+.main-info > div {
+    // height: 500px;
+    position: relative;
+    margin-top: 5px;
+}
+
+nav.navbar .nav-item a.lang-nav
+{
+    text-transform: uppercase;
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+nav.navbar .nav-item a.lang-cs
+{
+    background-image: url(/img/flag-cs.png)
+}
+
+nav.navbar .nav-item a.lang-en
+{
+    background-image: url(/img/flag-en.png)
+}
+
+.section-gray
+{
+	background-color: #EAEAEA;
+	padding: 20px 0px;
+}
+
+.post
+{
+	background-color: white;
+	padding-top: 15px;
+}
+
+#calendar ul li div a:nth-of-type(2)::before {
+   	content: " | "
+}
+
+.blog-post > h1 {
+	margin-top: 20px;
+	text-align: justify;
+}
+
+.blog-post img
+{
+	padding: 10px;
+}
+
+.blog-post img.main-img
+{
+	padding: 0px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	max-width: 500px;
+}
+
+.blog-post header .overlay-layer {
+    height: auto;
+    padding-bottom: 20px;
+    padding-top: 280px;
+    text-align:center;
+}
+
+.blog-post header .overlay-layer.container
+{
+	position: relative;
+}
+
+
+.blog-post .overlay-layer .author
+{
+	padding: 20px;
+	position: absolute;
+	top:60px;
+	right:0px;
+	background-color:rgba(0,0,0,0.65);
+	color:rgba(249,192,2,0.85)
+}
+
+.blog-post .overlay-layer .author h5
+{
+	display: inline-block;
+	margin: 0px;
+}
+
+
+#projects  div.row > div {
+    margin-bottom: 10px;
+}
+
+#projects  div.project-content {
+    height:240px;
+    border: 2px solid gray;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#projects  div.row h4 {
+    text-align: center;
+    padding-top: 65px;
+    font-size: 2.3em;
+}
+
+#projects  div.row h4 a {
+    color: black;
+    padding:10px 30px;
+    background-color: rgba(200,200,200, 0.8);
+    display: inline-block;
+}
+
+#team img.img-thumbnail
+{
+    width:100%;
+}
+
+#team div .member
+{
+	position: relative;
+}
+
+#team div .member ul
+{
+	position: absolute;
+	bottom:10px;
+	width:100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+#team div .member:hover ul li.info
+{
+	display: block
+}
+
+
+#team div .member ul li.info
+{
+	background-color:  rgba(249, 192, 2, 0.85);
+	display: none;
+}
+
+#kontakt div.row img.img-thumbnail
+{
+	width:200px;
+}
+
+footer {
+    position: relative;
+}
+
+footer > p
+{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+footer.bg-dark {
+    background-color: black !important;
+}
+
+footer #go-rouvy {
+    margin-top: 10px;
+    text-align: center;
+    background: rgba(249, 192, 2, 1);
+    border: 1px solid white;
+    padding: 10px;
+}
+
+footer #go-rouvy span {
+    padding: 25px;
+    margin-right: 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+footer #go-rouvy a {
+    display: inline-block;
+    vertical-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: 10px 0px;
+}
+
+footer #go-rouvy span.web-icon {
+    background-image: url(/img/web-icon-bw-transparent.png);
+}
+
+footer #go-rouvy span.fb-icon {
+    background-image: url(/img/fb-icon-bw-transparent.png);
+}
+
+footer #go-rouvy span.insta-icon {
+    background-image: url(/img/insta-icon-bw-transparent.png);
+}
+
+footer #partners-footer {
+    margin:20px 0px;
+}
+
+footer #partners-footer > div {
+    margin-bottom: 10px;
+}
+
+footer #partners-footer > div {
+    margin-bottom: 10px;
+}
+
+footer #partners-footer div.container
+{
+    background: white;
+    border: 2px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+footer #partners-footer a.partner-logo {
+    text-align: center;
+    margin:auto;
+    padding: 40px 10px;
+    background: white;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+footer #partners-footer a#footer-partner-rouvy {
+    background-image: url(/img/rouvy-logo-invert.png)
+}
+
+footer #partners-footer a#footer-partner-specialized {
+    background-image: url(/img/specialized-logo-bw.png)
+}
+
+footer #partners-footer a#footer-partner-fiat {
+    background-image: url(/img/fiat-logo.png)
+}
+
+footer #partners-footer a#footer-partner-autodojacek {
+    background-image: url(/img/auto-dojacek-logo.jpg)
+}
+
+footer #partners-footer a#footer-partner-nutrend {
+    background-image: url(/img/nutrend-logo.jpg)
+}
+
+footer #partners-footer a#footer-partner-petrcechsport {
+    background-image: url(/img/petr-cech-sport-logo.png)
+}
+
+footer #partners-footer a#footer-partner-lawi {
+    background-image: url(/img/lawi-logo.png)
+}
+
+footer #partners-footer a#footer-partner-cyklostar {
+    background-image: url(/img/cyklostar-logo.png)
+}
+
+#page-sportcamp-cs .header {
+    padding: 80px;
+    background-image: url(/img/sportcamp.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: initial;
+    background-repeat: no-repeat;
+}
+
+#page-sportcamp-cs .header h1 {
+    padding:20px 60px;
+    font-size: 4em;
+    background: rgba(249, 192, 2, 0.85);
+    color:white;
+    text-align: right;
+    display: inline;
+}
+
+#page-sportcamp-cs .header ul {
+    width : 25%;
+
+}
+
+#page-sportcamp-cs .header ul li {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+@media  (max-width:1199px) {
+
+    #page-sportcamp-cs .header ul {
+        width : 30%;
+    }
+
+    #page-sportcamp-cs .header h1 {
+        font-size: 3.5em;
+        padding:30px 60px;
+    }
+}
+
+
+
+@media  (max-width:991px) {
+
+    #page-sportcamp-cs .header ul {
+        width : 40%;
+    }
+
+    #page-sportcamp-cs .header h1 {
+        font-size: 3em;
+        padding:40px 30px;
+    }
+
+    #page-sportcamp-cs .header {
+        padding: 40px;
+    }
+}
+
+@media  (max-width:767px) {
+
+	h1.intro {
+        font-size: 2.5rem;
+        line-height: 3rem;
+        text-align: center;
+        font-weight: 900;
+    }
+
+    .intro-section {
+        padding: 15px 30px;
+    }
+
+    header .overlay-layer {
+        padding-top: 180px;
+    }
+
+    #page-sportcamp-cs .header ul {
+        float: none !important;
+        width : 100%;
+    }
+
+    #page-sportcamp-cs .header h1 {
+        font-size: 2em;
+        padding:20px 20px;
+        width: 100%;
+        float: none !important;
+        display: inline-block;
+        text-align: center;
+    }
+
+    #page-sportcamp-cs .header {
+        padding: 4px;
+    }
+
+	footer #partners-footer a.partner-logo
+	{
+		padding: 15px 10px;
+	}
+
+	footer #partners-footer > div {
+		margin-bottom: 0px;
+	}
+}
+
+@media (min-width:768px)
+{
+
+	#projects  div.col-md-6 {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+	#projects .row div:nth-child(odd) {
+		padding-right: 5px;
+	}
+
+	#projects .row div:nth-child(even) {
+		padding-left: 5px;
+	}
+
+    footer #partners-footer  div.col-md-3 {
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+
+    footer #partners-footer  div.col-md-3:first-of-type{
+        padding-left: 15px;
+    }
+
+    footer #partners-footer  div.col-md-3:last-of-type{
+        padding-right: 15px;
+    }
+}

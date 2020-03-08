@@ -1,0 +1,51 @@
+staff:
+
+- name: "Jiří Lutovský"
+  email: "lutak@bike-klub.cz"
+  phone:
+  img: "/img/lutak.jpg"
+  content: "manažer týmu, šéf trenér"
+
+- name: "Vojtěch Huřík"
+  email: "vhurik@seznam.c"
+  phone:
+  img: "/img/vojta.jpg"
+  content: "manažer týmu, šéf trenér"
+
+- name: "Jan Jedlička"
+  email: "jena.jedlicka@gmail.com"
+  phone:
+  img: "/img/jedla.jpg"
+  content:  "trenér mládeže, webmastet"
+
+- name: "Robert Jezl"
+  email: "jena.jedlicka@gmail.com"
+  phone:
+  img: "/img/robert.jpg"
+  content": "realizační tým"
+
+riders:
+
+- name: "Tereza Sásková"
+  img: "/img/terka.jpg"
+  content: "Ženy U23"
+
+- name: "Miroslav Skála"
+  img: "/img/mira.jpg"
+  content: "Muži U23"
+
+- name: "Sam Jirouš"
+  img: "/img/sam.jpg"
+  content: "Muži U23"
+
+- name: "Oskar Mareká"
+  img: "/img/oskar.jpg"
+  content: "Muži U23"
+
+- name: "Zuzana Šafářová"
+  img: "/img/zuzka.png"
+  content: "Ženy U23"
+
+- name: "Honza Saska"
+  img: "/img/saska.jpg"
+  content: "Junioři"

@@ -1,0 +1,12 @@
+
+- name: Pořádáme
+  url: '/#projects'
+
+- name: Kalendář
+  url:  '/#calendar'
+
+- name: Team
+  url: '/team'
+
+- name: Kontakt
+  url: /kontakt

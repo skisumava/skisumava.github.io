@@ -1,0 +1,36 @@
+---
+layout: default
+title: Kontakt
+---
+<div class="container mt-5" id="kontakt">
+	<div id="support-team" >
+		<h2>Realizační tým</h2>
+		<div class="row mt-4">
+			{% for member in site.data.team.staff %}
+				<div class="col-lg-6 col-md-12 mb-5">
+					<img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail  float-left rounded-circle">
+					<ul class="list-group list-group list-group-flush">
+						<li class="list-group-item font-weight-bold ">{{ member.name }}</li>
+						<li class="list-group-item "><strong>e-mail:</strong> {{ member.email }}</li>
+						<li class="list-group-item "><strong>tel:</strong>{{ member.phone }}</li>
+						<li class="list-group-item">{{ member.content }}</li>
+					</ul>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+
+	<div id="contact">
+		<h2> Kontakt</h2>
+
+		<address>
+			<strong>Bike klub Vimperk o.s.</strong>
+			<br />
+			Pivovarská 68,
+			<br />385 01 Vimperk
+			<br />Česká republika
+			<br />
+			<abbr title="Tel">Telefon</abbr> (00420) 388 411 051
+		</address>
+	</div>
+</div>

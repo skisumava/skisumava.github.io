@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<div class="section-gray">
+    <div class="container">
+        <h1>Novinky</h1>
+        <div class="row main-info" >
+            <div class="col-md-7 post rounded" >
+                {% for post in site.posts %}
+                    <h3>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </h3>
+                    <p class="font-weight-bold">
+                        Autor: {{ post.author}} <small> | {{ post.date | date:"%Y:%m:%d"  }} </small>
+                    </p>
+                    <img src="{{ post.preview-image }}" class="img-fluid mb-3" alt="Responsive image">
+                    <div class="content">
+                     {{ post.excerpt }}
+                    </div>
+                {% endfor %}
+            </div>
+
+    		<div class="col-md-5">
+    			<div id="fb-root"></div>
+    			  <script>
+    			      (function(d, s, id)
+    			      {
+    			          var js, fjs = d.getElementsByTagName(s)[0];
+    			          if (d.getElementById(id)) return;
+    			          js = d.createElement(s); js.id = id;
+    			          js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0';
+    			          fjs.parentNode.insertBefore(js, fjs);
+    			      }(document, 'script', 'facebook-jssdk'));
+    			    </script>
+    			  <div class="fb-page" data-href="https://www.facebook.com/skisumavavimperk/" data-tabs="timeline" data-width="500"  data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+    			  <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/rouvyspecialized/"><a href="https://www.facebook.com/rouvyspecialized">ROUVY Specialized Cycling Team</a></blockquote>
+    			</div>
+    		</div>
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+
+    var ChangeFBPagePlugin = function () {
+
+       //getting parent box height
+       //var container_height = (Number($('.fb-column').height()) - (Number($('.fb-column-header').height()) + Number($('.fb-column-header').css('margin-bottom').replace("px", "")) + Number(($('.fb-column').css('padding-top').replace("px", "")*2)))).toFixed(0);
+       var containerHeight = Math.floor(Number($(".main-info .post").outerHeight()));
+       var containerWidth = Math.floor(Number($(".main-info").outerWidth() - $(".post").outerWidth()))
+       if (!isNaN(containerHeight)) {
+          $(".fb-page").attr("data-height", containerHeight);
+          if (!isNaN(containerWidth)){
+               $(".fb-page").attr("data-width", containerWidth);
+          }
+          if (typeof FB !== 'undefined' ) {
+             FB.XFBML.parse();
+          }
+       }
+
+    }
+
+    var SetProjectPadding = function() {
+        $(".project-content").each ( function(){
+            var innerH = Number($(this).innerHeight());
+            var height = Number($(this).find(" > h4").height())
+            var pT = Math.round((innerH - height)/2)
+            var pInnerH = $(this).find(" > h4").css("padding-top", pT + "px")
+        })
+    }
+
+    $(window).on('resize', function() {
+       setTimeout(function(){ChangeFBPagePlugin()});
+       SetProjectPadding()
+    });
+
+    $(window).on('load', function() {
+       setTimeout(function(){ChangeFBPagePlugin()});
+       SetProjectPadding()
+
+    });
+
+</script>

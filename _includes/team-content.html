@@ -1,0 +1,47 @@
+<div class="container" id="team">
+
+    <div id="support-team" >
+        <h3>{{ site.data.loc[page.lang].riders }}</h3>
+        <div class="row">
+            {% for member in site.data.team.riders%}
+                <div class="col-lg-4  col-md-6 text-center">
+                    <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
+                    <ul class="list-group mb-4">
+                        <li class="list-group-item font-weight-bold list-group-item-dark">{{ member.name }}</li>
+                        <li class="list-group-item">{{ member.content[page.lang] }}</li>
+                    </ul>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div id="support-team" >
+        <h3>{{ site.data.loc[page.lang].supportteam }}</h3>
+        <div class="row">
+            {% for member in site.data.team.staff %}
+                <div class="col-lg-3  col-md-6 text-center">
+                    <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
+                    <ul class="list-group mb-4">
+                        <li class="list-group-item font-weight-bold list-group-item-dark">{{ member.name }}</li>
+                        <li class="list-group-item ">{{ member.email }}</li>
+                        <li class="list-group-item">{{ member.content[page.lang] }}</li>
+                    </ul>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div id="contact">
+        <h2>    {{ site.data.loc[page.lang].contact }}</h2>
+
+        <address>
+          <strong>Bike klub Vimperk o.s.</strong>
+          <br />
+          Pivovarská 68, 385 01 Vimperk 388411051
+          <br />385 01 Vimperk
+          <br />{{site.data.loc[page.lang].czech-republic}}
+          <br />
+          <abbr title="{{site.data.loc[page.lang].phone}}">{{site.data.loc[page.lang].phone-short}}</abbr> - (00420) 388 411 051
+    </div>
+
+</div>

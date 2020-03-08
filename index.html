@@ -1,0 +1,172 @@
+---
+layout: default
+---
+
+<header id="masthead" >
+    <div class="overlay-layer-wrap">
+        <div class=" overlay-layer">
+            <div class="intro-section">
+                <h1 class="intro">
+                    Fisher SkiKlub Šumava Vimperk
+                </h1>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="section-gray">
+    <div class="container">
+        <div class="row main-info" >
+            <div class="col-md-7 post rounded" >
+                {% for post in site.posts limit:2 %}
+                    <h3>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </h3>
+                    <p class="font-weight-bold">
+                        Autor: {{ post.author}} <small> | {{ post.date | date:"%Y:%m:%d"  }} </small>
+                    </p>
+                    <img src="{{ post.preview-image }}" class="img-fluid mb-3" alt="Responsive image">
+                    <div class="content">
+                     {{ post.excerpt }}
+                    </div>
+                {% endfor %}
+                <div class="text-center mb-2">
+                    <a href="/novinky" class="btn btn-warning btn-lg text-center " role="button" aria-pressed="true">Daší novniky</a>
+                </div>
+
+            </div>
+
+    		<div class="col-md-5">
+    			<div id="fb-root"></div>
+    			  <script>
+    			      (function(d, s, id)
+    			      {
+    			          var js, fjs = d.getElementsByTagName(s)[0];
+    			          if (d.getElementById(id)) return;
+    			          js = d.createElement(s); js.id = id;
+    			          js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0';
+    			          fjs.parentNode.insertBefore(js, fjs);
+    			      }(document, 'script', 'facebook-jssdk'));
+    			    </script>
+    			  <div class="fb-page" data-href="https://www.facebook.com/skisumavavimperk/" data-tabs="timeline" data-width="500"  data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+    			  <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/rouvyspecialized/"><a href="https://www.facebook.com/rouvyspecialized">ROUVY Specialized Cycling Team</a></blockquote>
+    			</div>
+    		</div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row " >
+        <div class="col-md-8">
+            <div id="projects">
+                <h3 class="my-4">Pořádáme</h3>
+                <div class="row">
+                    {% for project in site.data.projects %}
+                        <div class="col-lg-6 col-md-12" id="{{ project-id }}">
+                            <div  class="project-content" style="background-image: url('{{ project.bg-image }}')" >
+                                <h4 class="align-middle">
+                                    <a href="{{ project.url}}" class="roundedAll">
+                                        {{ project.name }}
+                                    </a>
+                                </h4>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div id="calendar" class="col-md-4" >
+            <h3 class="my-4">Kalendář</h3>
+            <ul class="list-group list-group-flush">
+                {% for event in site.data.event-calendar %}
+                    <li class="list-group-item">
+                        <h5>
+                            {% if event.url %}
+                                <a href="{{ event.url }}">{{ event.name }}</a>
+                            {% else %}
+                                {{ event.name }}
+                            {% endif %}
+                        </h5>
+                        <div>
+                            {{ event.date }}
+                            {% if event.proposition %}
+                                <a href="{{ event.proposition }}"> Propozice </a>
+                            {% endif %}
+                            {% if event.results %}
+                                <a href="{{ event.results }}"> Výseldky </a>
+                            {% endif %}
+                            {% if event.description %}
+                                <p>
+                                    {{ event.description }}
+                                </p>
+                            {% endif %}
+                        <div>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+
+<script type="text/javascript">
+
+    var ChangeFBPagePlugin = function () {
+
+       //getting parent box height
+       //var container_height = (Number($('.fb-column').height()) - (Number($('.fb-column-header').height()) + Number($('.fb-column-header').css('margin-bottom').replace("px", "")) + Number(($('.fb-column').css('padding-top').replace("px", "")*2)))).toFixed(0);
+        var containerHeight = Math.floor(Number($(".main-info .post").outerHeight()));
+        var oW = Number($(".main-info").outerWidth());
+        var containerWidth = Math.floor(oW - $(".post").outerWidth())
+        if (!isNaN(containerHeight)) {
+            $(".fb-page").attr("data-height", containerHeight);
+            if (!isNaN(containerWidth)){
+                if (containerWidth > 100)
+                    $(".fb-page").attr("data-width", containerWidth);
+                else
+                    $(".fb-page").attr("data-width",  Math.floor(oW));
+            }
+            if (typeof FB !== 'undefined' ) {
+            FB.XFBML.parse();
+            }
+        }
+
+    }
+
+    var SetProjectPadding = function() {
+        $(".project-content").each ( function(){
+            var innerH = Number($(this).innerHeight());
+            var height = Number($(this).find(" > h4").height())
+            var pT = Math.round((innerH - height)/2)
+            var pInnerH = $(this).find(" > h4").css("padding-top", pT + "px")
+        })
+    }
+
+    $(window).on('resize', function() {
+       setTimeout(function(){ChangeFBPagePlugin()});
+       SetProjectPadding()
+    });
+
+    $(window).on('load', function() {
+       setTimeout(function(){ChangeFBPagePlugin()});
+       SetProjectPadding()
+
+
+       $(".navbar ul li a[href^='/#']").on('click', function(e) {
+
+            // prevent default anchor click behaviour
+            e.preventDefault();
+            // store hash
+            var hash = this.hash;
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top
+                }, 1000, function(){
+               // when done, add hash to url
+               //window.location.hash = hash;
+            });
+
+        });
+    });
+
+</script>

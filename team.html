@@ -1,0 +1,42 @@
+---
+layout: default
+title: Team
+---
+<div class="container mt-5 mb-5" id="team">
+
+    <div id="support-team" class="mb-3">
+        <h3>Závodníci</h3>
+        <div class="row">
+            {% for member in site.data.team.riders%}
+                <div class="col-lg-4  col-md-6 text-center">
+                    <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
+                        <div class="member">
+                        <ul class="list-group mb-4">
+                            <li class="list-group-item font-weight-bold list-group-item-dark">{{ member.name }}</li>
+                            <li class="list-group-item info">{{ member.content }}</li>
+                        </ul>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div id="support-team" >
+        <h3>Realizační tým</h3>
+        <div class="row">
+            {% for member in site.data.team.staff %}
+                <div class=" col-lg-3  col-md-6 text-center">
+                    <div class="member">
+                        <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
+                        <ul class="list-group">
+                            <li class="list-group-item font-weight-bold list-group-item-dark">{{ member.name }}</li>
+                            <li class="list-group-item info">{{ member.email }}</li>
+                            <li class="list-group-item info">{{ member.content }}</li>
+                        </ul>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>

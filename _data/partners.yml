@@ -1,0 +1,31 @@
+- name: Rouvy
+  url: https://rouvy.com
+  cssid: partner-rouvy
+
+- name: Specialized
+  url: https://www.specialized.com/cz/cs
+  cssid: partner-specialized
+
+- name: Fiat Professional
+  url: https://www.fiatprofessional.com/cz
+  cssid: partner-fiat
+
+- name: Auto Dojáček
+  url: http://www.dojacek.cz/
+  cssid: partner-autodojacek
+
+- name: Nutrend
+  url: https://www.nutrend.cz/
+  cssid: partner-nutrend
+
+- name: Petr Čech Sport
+  url: https://petrcechsport.cz/"
+  cssid: partner-petrcechsport
+
+- name: Lawi Sportswear
+  url: https://lawi.cz/
+  cssid: partner-lawi
+
+- name: Cyklostar
+  url: https://www.cyklostar.cz/
+  cssid: partner-cyklostar

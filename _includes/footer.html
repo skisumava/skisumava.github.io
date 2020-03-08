@@ -1,0 +1,52 @@
+<footer class="py-2 bg-dark">
+    <div class="container">
+
+        <img class="img-fluid" src="/img/rouvy-logo-footer.png" alt="Rouvy Specialized Cycling Team footer logo">
+
+        <div id="go-rouvy" class="roundedAll">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="web-icon"></span>
+                    <a href="https://rouvy.com">
+                        rouvy.com
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <span class="fb-icon"></span>
+                    <a href="https://www.facebook.com/gorouvy/">
+                        / gorouvy
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <span class="insta-icon"></span>
+                    <a href="https://www.instagram.com/gorouvy/">
+                        / gorouvy
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="partners-footer" >
+            {% assign off = 0 %}
+            {% for i in (0..1) %}
+                <div class="row">
+                    {% for partner in site.data.partners limit:4 offset:off %}
+                        <div class="col-md-3">
+                            <div class="container roundedAll">
+                                <a href="{{ partner.url }}" id="footer-{{ partner.cssid }}" class="partner-logo">
+                                    <span class="d-none">{{ partner.name }}</span>
+                                </a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                {% assign off = off | plus: 4 %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <img class="img-fluid" src="/img/rouvy-footer-bottom.png" alt="ROUVY Specialized Cycling Team footer bottom image">
+
+    <p class="text-right">Copyright &copy; {{ site.time | date: '%Y' }}</p>
+
+</footer>
