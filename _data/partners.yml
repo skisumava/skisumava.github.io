@@ -1,11 +1,12 @@
 - name: Fisher
   url: https://www.sfcb.cz/znacky/fischer/
   cssid: partner-fischer
+  image: '/img/rouvy-logo.jpg'
 
 - name: Sport & Freizeit
   url: https://www.sfcb.cz/
   cssid: partner-sfcb
- 
+
 - name: SportSoft
   url: https://sportsoft.cz/
   cssid: partner-sportsoft
@@ -17,7 +18,7 @@
 - name: Giant
   url: https://www.giant-bicycles.com/cz
   cssid: partner-giant
-  
+
 - name: LA Zadov
   url: http://www.lazadov.cz/la/
   cssid: partner-lazadov

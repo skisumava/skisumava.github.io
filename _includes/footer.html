@@ -32,7 +32,7 @@
                     {% for partner in site.data.partners limit:4 offset:off %}
                         <div class="col-md-3">
                             <div class="container roundedAll">
-                                <a href="{{ partner.url }}" id="footer-{{ partner.cssid }}" class="partner-logo">
+                                <a href="{{ partner.url }}" id="footer-{{ partner.cssid }}" class="partner-logo"  style="background-image: url('{{ partner.image }}')" >
                                     <span class="d-none">{{ partner.name }}</span>
                                 </a>
                             </div>

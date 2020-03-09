@@ -55,24 +55,6 @@ h1.intro {
     text-align: center;
 }
 
-@media  (max-width:991px) {
-    h1.intro {
-        font-size: 3rem;
-        line-height: 4rem;
-        text-align: center;
-        font-weight: 900;
-    }
-
-    .intro-section {
-        padding: 15px 45px;
-    }
-
-    header .overlay-layer {
-        padding-top: 250px;
-    }
-}
-
-
 nav.bg-dark {
     background-color: black !important;
 }
@@ -325,38 +307,6 @@ footer #partners-footer a.partner-logo {
 }
 
 
-footer #partners-footer a#footer-partner-rouvy {
-    background-image: url(/img/rouvy-logo-invert.png)
-}
-
-footer #partners-footer a#footer-partner-specialized {
-    background-image: url(/img/specialized-logo-bw.png)
-}
-
-footer #partners-footer a#footer-partner-fiat {
-    background-image: url(/img/fiat-logo.png)
-}
-
-footer #partners-footer a#footer-partner-autodojacek {
-    background-image: url(/img/auto-dojacek-logo.jpg)
-}
-
-footer #partners-footer a#footer-partner-nutrend {
-    background-image: url(/img/nutrend-logo.jpg)
-}
-
-footer #partners-footer a#footer-partner-petrcechsport {
-    background-image: url(/img/petr-cech-sport-logo.png)
-}
-
-footer #partners-footer a#footer-partner-lawi {
-    background-image: url(/img/lawi-logo.png)
-}
-
-footer #partners-footer a#footer-partner-cyklostar {
-    background-image: url(/img/cyklostar-logo.png)
-}
-
 #page-sportcamp-cs .header {
     padding: 80px;
     background-image: url(/img/sportcamp.jpg);
@@ -397,8 +347,21 @@ footer #partners-footer a#footer-partner-cyklostar {
 }
 
 
-
 @media  (max-width:991px) {
+    h1.intro {
+        font-size: 3rem;
+        line-height: 4rem;
+        text-align: center;
+        font-weight: 900;
+    }
+
+    .intro-section {
+        padding: 15px 45px;
+    }
+
+    header .overlay-layer {
+        padding-top: 250px;
+    }
 
     #page-sportcamp-cs .header ul {
         width : 40%;
