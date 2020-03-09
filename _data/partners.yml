@@ -6,12 +6,12 @@
 - name: Sport & Freizeit
   url: https://www.sfcb.cz/
   cssid: partner-sfcb
-  image: '/logo_S&F.png'
+  image: '/img/logo_S&F.png'
 
 - name: SportSoft
   url: https://sportsoft.cz/
   cssid: partner-sportsoft
-  image: '/logo_S&F.png'
+  image: '/img/logo_SportSoft_160.jpg'
 
 - name: Rouvy
   url: https://rouvy.com
@@ -21,19 +21,19 @@
 - name: Giant
   url: https://www.giant-bicycles.com/cz
   cssid: partner-giant
-  image: '/logo_giant_160x42.jpg'
+  image: '/img/logo_giant_160x42.jpg'
 
 - name: LA Zadov
   url: http://www.lazadov.cz/la/
   cssid: partner-lazadov
-  image: '/logo_S&F.png'
+  image: '/img/logo_la_zadov_2015_160.jpg'
   
 - name: Výletní restaurace Vodník
   url: http://www.restaurace-vodnik.cz/
   cssid: partner-vodnik
-  image: '/logo_vodnik_300.png
+  image: '/img/logo_vodnik_300.png
   
 - name: Švarctrans, s.r.o.
   url: http://www.svarctrans.cz/kontakt.html
   cssid: partner-svarctrans
-  image: '/logo_svarctrans_300.png
+  image: '/img/logo_svarctrans_300.png
