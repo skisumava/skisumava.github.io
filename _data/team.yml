@@ -2,7 +2,7 @@ staff:
 
 - name: "Karel Hudeček"
   email: "hudecek@skisumava.cz"
-  phone:
+  phone: "721141081"
   img: "/img/logo_sksv_new2014_p6.jpg"
   content: "předseda"
 
@@ -22,66 +22,66 @@ staff:
   email: "steinbach@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér"
+  content: "trenér"
   
 - name: "Josef Venclík"
   email: "venclik@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
   
 - name: "Evča Jedličková"
   email: "jedlickova@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér"
+  content: "trenér"
 
 - name: "Olča Honsová"
   email: "honsova@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér"
+  content: "trenér"
   
 - name: "Jakub Mondl"
   email: "mondl@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
     
 - name: "Janča Hudečková"
   email: "hudeckova@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér"  
+  content: "trenér"  
   
 - name: "Evča Daverná"
   email: "daverna@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
   
 - name: "Domča Voráčková"
   email: "vorackova@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
     
 - name: "Martina Mondlová"
   email: "mondlova@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
     
 - name: "Marcela Štěrbová"
   email: "sterbova@skisumava.cz"
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
     
 - name: "Jarda Daverný"
   email: "daverny@skisumava.cz"
   phone:
   img: "/img/logo_sksv_new2014_p6.jpg"
-  content": "trenér" 
+  content: "trenér" 
  
   
 groups:
