@@ -1,51 +1,111 @@
 staff:
 
-- name: "Jiří Lutovský"
-  email: "lutak@bike-klub.cz"
+- name: "Karel Hudeček"
+  email: "hudecek@skisumava.cz"
   phone:
-  img: "/img/lutak.jpg"
-  content: "manažer týmu, šéf trenér"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "předseda"
 
-- name: "Vojtěch Huřík"
-  email: "vhurik@seznam.c"
+- name: "Pavel Hlava"
+  email: "hlava@skisumava.cz"
   phone:
-  img: "/img/vojta.jpg"
-  content: "manažer týmu, šéf trenér"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "hospodář, dobrá duše"
 
-- name: "Jan Jedlička"
-  email: "jena.jedlicka@gmail.com"
+- name: "Zbyněk Pavlásek"
+  email: "pavlasek@skisumava.cz"
   phone:
-  img: "/img/jedla.jpg"
-  content:  "trenér mládeže, webmastet"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content:  "trenér"
 
-- name: "Robert Jezl"
-  email: "jena.jedlicka@gmail.com"
+- name: "Petr Steinbach"
+  email: "steinbach@skisumava.cz"
   phone:
-  img: "/img/robert.jpg"
-  content": "realizační tým"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér"
+  
+- name: "Josef Venclík"
+  email: "venclik@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+  
+- name: "Evča Jedličková"
+  email: "jedlickova@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér"
 
+- name: "Olča Honsová"
+  email: "honsova@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér"
+  
+- name: "Jakub Mondl"
+  email: "mondl@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+    
+- name: "Janča Hudečková"
+  email: "hudeckova@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér"  
+  
+- name: "Evča Daverná"
+  email: "daverna@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+  
+- name: "Domča Voráčková"
+  email: "vorackova@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+    
+- name: "Martina Mondlová"
+  email: "mondlova@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+    
+- name: "Marcela Štěrbová"
+  email: "sterbova@skisumava.cz"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+    
+- name: "Jarda Daverný"
+  email: "daverny@skisumava.cz"
+  phone:
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content": "trenér" 
+ 
+  
 riders:
 
-- name: "Tereza Sásková"
-  img: "/img/terka.jpg"
-  content: "Ženy U23"
+- name: "dorost a junioři"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "makáči"
 
-- name: "Miroslav Skála"
-  img: "/img/mira.jpg"
-  content: "Muži U23"
+- name: "starší žactvo"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "žhavá záloha"
 
-- name: "Sam Jirouš"
-  img: "/img/sam.jpg"
-  content: "Muži U23"
+- name: "mladší žactvo"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "naděje"
 
-- name: "Oskar Mareká"
-  img: "/img/oskar.jpg"
-  content: "Muži U23"
+- name: "potěr"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "radost" 
 
-- name: "Zuzana Šafářová"
-  img: "/img/zuzka.png"
-  content: "Ženy U23"
+- name: "batolata"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "hra"
 
-- name: "Honza Saska"
-  img: "/img/saska.jpg"
-  content: "Junioři"
+- name: "biatlon"
+  img: "/img/logo_sksv_new2014_p6.jpg"
+  content: "puškoběžci"   
