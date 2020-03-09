@@ -1,12 +1,12 @@
-- name: Běh do vrchu
-  date: 21.2.2020
-  url: http://zadov.cz/mtb/index.htm
-  proposition: sdsdf
-  results: dsfds
-  description: "lorep ipsusm fsmkfkfskfm ksfnksnf"
+- name: 'Šumavský MTB maraton'
+  date: 1.8.2020
+  url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
+  proposition: 
+  results: https://sportsoft.cz/cs/zavod/overview/5149
+  description: "nejlepší bajkovej závod na světě :-)"
 
-- name: Hajna Hora
-  date: 27.2.2020
-  url: http://zadov.cz/mtb/index.html
+- name: 'Šumavský skimaraton'
+  date: 27.2.2021
+  url: http://www.skimaraton.cz/main.aspx?lng=cz
   proposition:
-  results:
+  results: https://sportsoft.cz/cs/zavod/overview/5126
