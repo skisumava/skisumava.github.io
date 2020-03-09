@@ -21,7 +21,7 @@
 - name: Giant
   url: https://www.giant-bicycles.com/cz
   cssid: partner-giant
-  image: '/logo_S&F.png'
+  image: '/logo_giant_160x42.jpg'
 
 - name: LA Zadov
   url: http://www.lazadov.cz/la/
@@ -31,7 +31,7 @@
 - name: Výletní restaurace Vodník
   url: http://www.restaurace-vodnik.cz/
   cssid: partner-vodnik
-  image: 'logo_vodnik_300.png
+  image: '/logo_vodnik_300.png
   
 - name: Švarctrans, s.r.o.
   url: http://www.svarctrans.cz/kontakt.html
