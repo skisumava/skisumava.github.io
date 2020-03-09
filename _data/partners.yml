@@ -1,9 +1,9 @@
-- name: Fisher
+- name: Fischer
   url: https://www.sfcb.cz/znacky/fischer/
   cssid: partner-fischer
   image: '/img/logo_fischer_250.png'
 
-- name: Sport & Freizeit
+- name: "Sport & Freizeit"
   url: https://www.sfcb.cz/
   cssid: partner-sfcb
   image: '/img/logo_S&F.png'
@@ -28,12 +28,12 @@
   cssid: partner-lazadov
   image: '/img/logo_la_zadov_2015_160.jpg'
   
-- name: Výletní restaurace Vodník
+- name: "Výletní restaurace Vodník"
   url: http://www.restaurace-vodnik.cz/
   cssid: partner-vodnik
   image: '/img/logo_vodnik_300.png
   
-- name: Švarctrans, s.r.o.
+- name: "Švarctrans, s.r.o."
   url: http://www.svarctrans.cz/kontakt.html
   cssid: partner-svarctrans
   image: '/img/logo_svarctrans_300.png
