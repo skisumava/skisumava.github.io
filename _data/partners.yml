@@ -31,9 +31,9 @@
 - name: "Výletní restaurace Vodník"
   url: http://www.restaurace-vodnik.cz/
   cssid: partner-vodnik
-  image: '/img/logo_vodnik_300.png
+  image: '/img/logo_vodnik_300.png'
   
 - name: "Švarctrans, s.r.o."
   url: http://www.svarctrans.cz/kontakt.html
   cssid: partner-svarctrans
-  image: '/img/logo_svarctrans_300.png
+  image: '/img/logo_svarctrans_300.png'
