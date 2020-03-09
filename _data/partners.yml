@@ -1,25 +1,39 @@
 - name: Fisher
   url: https://www.sfcb.cz/znacky/fischer/
   cssid: partner-fischer
-  image: '/img/rouvy-logo-invert.png'
+  image: '/img/logo_fischer_250.png'
 
 - name: Sport & Freizeit
   url: https://www.sfcb.cz/
   cssid: partner-sfcb
+  image: '/logo_S&F.png'
 
 - name: SportSoft
   url: https://sportsoft.cz/
   cssid: partner-sportsoft
+  image: '/logo_S&F.png'
 
 - name: Rouvy
   url: https://rouvy.com
   cssid: partner-rouvy
-  image: '/img/rouvy-logo.jpg'  
+  image: '/img/rouvy-logo-invert.png'  
 
 - name: Giant
   url: https://www.giant-bicycles.com/cz
   cssid: partner-giant
+  image: '/logo_S&F.png'
 
 - name: LA Zadov
   url: http://www.lazadov.cz/la/
   cssid: partner-lazadov
+  image: '/logo_S&F.png'
+  
+- name: Výletní restaurace Vodník
+  url: http://www.restaurace-vodnik.cz/
+  cssid: partner-vodnik
+  image: 'logo_vodnik_300.png
+  
+- name: Švarctrans, s.r.o.
+  url: http://www.svarctrans.cz/kontakt.html
+  cssid: partner-svarctrans
+  image: '/logo_svarctrans_300.png
