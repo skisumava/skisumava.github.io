@@ -1,31 +1,23 @@
+- name: Fisher
+  url: https://www.sfcb.cz/znacky/fischer/
+  cssid: partner-fischer
+
+- name: Sport & Freizeit
+  url: https://www.sfcb.cz/
+  cssid: partner-sfcb
+ 
+- name: SportSoft
+  url: https://sportsoft.cz/
+  cssid: partner-sportsoft
+
 - name: Rouvy
   url: https://rouvy.com
   cssid: partner-rouvy
 
-- name: Fisher
-  url: https://www.specialized.com/cz/cs
-  cssid: partner-specialized
-
-- name: Fiat Professional
-  url: https://www.fiatprofessional.com/cz
-  cssid: partner-fiat
-
-- name: Auto Dojáček
-  url: http://www.dojacek.cz/
-  cssid: partner-autodojacek
-
-- name: Nutrend
-  url: https://www.nutrend.cz/
-  cssid: partner-nutrend
-
-- name: Petr Čech Sport
-  url: https://petrcechsport.cz/"
-  cssid: partner-petrcechsport
-
-- name: Lawi Sportswear
-  url: https://lawi.cz/
-  cssid: partner-lawi
-
-- name: Cyklostar
-  url: https://www.cyklostar.cz/
-  cssid: partner-cyklostar
+- name: Giant
+  url: https://www.giant-bicycles.com/cz
+  cssid: partner-giant
+  
+- name: LA Zadov
+  url: http://www.lazadov.cz/la/
+  cssid: partner-lazadov
