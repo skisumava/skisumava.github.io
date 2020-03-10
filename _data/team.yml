@@ -2,7 +2,7 @@ staff:
 
 - name: "Karel Hudeček"
   email: "hudecek@skisumava.cz"
-  phone: 721141081
+  phone: "721141081"
   img: "/img/hudecek.jpg"
   content: "předseda"
 
@@ -14,13 +14,13 @@ staff:
 
 - name: "Zbyněk Pavlásek"
   email: "pavlasek@skisumava.cz"
-  phone: 606 691 292
+  phone: "606 691 292"
   img: "/img/pavlasek.jpg"
   content:  "trenér"
 
 - name: "Petr Steinbach"
   email: "steinbach@skisumava.cz"
-  phone: 602 281 279
+  phone: "602 281 279"
   img: "/img/logo_sksv_new2014_p6.jpg"
   content: "trenér"
   
