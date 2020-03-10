@@ -8,9 +8,9 @@ title: Team
         <h3>Skupiny</h3>
         <div class="row">
             {% for member in site.data.team.groups%}
-                <div class="col-lg-4  col-md-6 text-center">
-                    <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
-                        <div class="member">
+                <div class="col-lg-4  col-md-6 text-center mb-3">
+                    <div class="member">
+                        <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
                         <ul class="list-group mb-4">
                             <li class="list-group-item font-weight-bold list-group-item-dark">{{ member.name }}</li>
                             <li class="list-group-item info">{{ member.content }}</li>
@@ -25,7 +25,7 @@ title: Team
         <h3>Realizační tým</h3>
         <div class="row">
             {% for member in site.data.team.staff %}
-                <div class=" col-lg-3  col-md-6 text-center">
+                <div class=" col-lg-3  col-md-6 text-center  mb-3">
                     <div class="member">
                         <img src="{{ member.img }}" alt="{{ member.name }}" class="img-thumbnail rounded-circle">
                         <ul class="list-group">

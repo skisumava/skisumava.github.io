@@ -16,24 +16,24 @@
 - name: Rouvy
   url: https://rouvy.com
   cssid: partner-rouvy
-  image: '/img/rouvy-logo-invert.png'  
+  image: '/img/rouvy-logo-invert.png'
 
 - name: Giant
   url: https://www.giant-bicycles.com/cz
   cssid: partner-giant
   image: '/img/logo_giant_160x42.jpg'
 
-- name: LA Zadov
+- name: "LA Zadov"
   url: http://www.lazadov.cz/la/
   cssid: partner-lazadov
   image: '/img/logo_la_zadov_2015_160.jpg'
-  
-- name: "Výletní restaurace Vodník"
+
+- name: "VÃ­letnÃ­ restaurace VodnÃ­k"
   url: http://www.restaurace-vodnik.cz/
   cssid: partner-vodnik
   image: '/img/logo_vodnik_300.png'
-  
-- name: "Švarctrans, s.r.o."
+
+- name: "Å varctrans, s.r.o."
   url: http://www.svarctrans.cz/kontakt.html
   cssid: partner-svarctrans
   image: '/img/logo_svarctrans_300.png'
