@@ -103,9 +103,9 @@ groups:
   content: "radost" 
 
 - name: "batolata"
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/batolata.jpg"
   content: "hra"
 
 - name: "biatlon"
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/biatlon.jpg"
   content: "puškoběžci"   
