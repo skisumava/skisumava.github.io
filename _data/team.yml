@@ -15,7 +15,7 @@ staff:
 - name: "Zbyněk Pavlásek"
   email: "pavlasek@skisumava.cz"
   phone:
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/pavlasek.jpg"
   content:  "trenér"
 
 - name: "Petr Steinbach"
@@ -87,7 +87,7 @@ staff:
 groups:
 
 - name: "dorost a junioři"
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/dorost.jpg"
   content: "makáči"
 
 - name: "starší žactvo"
