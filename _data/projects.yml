@@ -1,16 +1,16 @@
 
-- name: Šumavský Skimaraton
+- name: ČT Šumavský skimaraton
   url: http://www.skimaraton.cz/main.aspx?lng=cz
-  bg-image: /img/rouvy-camp.jpg
+  bg-image: /img/logo_sm_300.jpg
 
-- name: Šumavský MTB Maraton
-  url: https://www.kolopro.cz/zavody/race-576-sumavsky-mtb-maraton-ceske-sporitelny
+- name: Šumavský MTB Maraton České spořitelny
+  url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
   bg-image: /img/rouvy-camp.jpg
 
 - name: Vodnická brusle
-  url: http://skisumava.cz/akce.aspx?id=448
+  url: 
   bg-image: /img/rouvy-camp.jpg
 
 - name: 5x Vimperkem
-  url: https://enduroserie.cz/zavody-enduro/detail/559
+  url: 
   bg-image: /img/rouvy-camp.jpg
