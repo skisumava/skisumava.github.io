@@ -95,11 +95,11 @@ groups:
   content: "žhavá záloha"
 
 - name: "mladší žactvo"
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/mlzc.jpg"
   content: "naděje"
 
 - name: "potěr"
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/poter.jpg"
   content: "radost" 
 
 - name: "batolata"
