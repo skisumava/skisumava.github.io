@@ -8,19 +8,19 @@ staff:
 
 - name: "Pavel Hlava"
   email: "hlava@skisumava.cz"
-  phone:
+  phone: 
   img: "/img/logo_sksv_new2014_p6.jpg"
   content: "hospodář, dobrá duše"
 
 - name: "Zbyněk Pavlásek"
   email: "pavlasek@skisumava.cz"
-  phone:
+  phone: 606 691 292
   img: "/img/pavlasek.jpg"
   content:  "trenér"
 
 - name: "Petr Steinbach"
   email: "steinbach@skisumava.cz"
-  phone:
+  phone: 602 281 279
   img: "/img/logo_sksv_new2014_p6.jpg"
   content: "trenér"
   
