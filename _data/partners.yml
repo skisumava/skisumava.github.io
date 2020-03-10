@@ -33,7 +33,7 @@
   cssid: partner-vodnik
   image: '/img/logo_vodnik_300.png'
 
-- name: "Švarctrans, s.r.o."
-  url: http://www.svarctrans.cz/kontakt.html
-  cssid: partner-svarctrans
-  image: '/img/logo_svarctrans_300.png'
+- name: "Auto JM"
+  url: http://www.autojm.cz/
+  cssid: partner-autojm
+  image: '/img/logo_auto_jm.jpg'
