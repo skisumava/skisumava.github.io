@@ -57,7 +57,7 @@ staff:
 - name: "Evča Daverná"
   email: "daverna@skisumava.cz"
   phone:
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/daverna.jpg"
   content: "trenér" 
   
 - name: "Domča Voráčková"
@@ -69,7 +69,7 @@ staff:
 - name: "Martina Mondlová"
   email: "mondlova@skisumava.cz"
   phone:
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/mondlova.jpg"
   content: "trenér" 
     
 - name: "Marcela Štěrbová"
@@ -80,7 +80,7 @@ staff:
 - name: "Jarda Daverný"
   email: "daverny@skisumava.cz"
   phone:
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/daverny.jpg"
   content: "trenér" 
  
   
