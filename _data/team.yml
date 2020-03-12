@@ -21,13 +21,13 @@ staff:
 - name: "Petr Steinbach"
   email: "steinbach@skisumava.cz"
   phone: "602 281 279"
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/steinbach.jpg"
   content: "trenér"
   
 - name: "Josef Venclík"
   email: "venclik@skisumava.cz"
   phone:
-  img: "/img/logo_sksv_new2014_p6.jpg"
+  img: "/img/venclik.jpg"
   content: "trenér" 
   
 - name: "Evča Jedličková"
