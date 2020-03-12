@@ -64,9 +64,9 @@ layout: default
                     {% for project in site.data.projects %}
                         <div class="col-lg-6 col-md-12" id="{{ project-id }}">
                             <div  class="project-content" style="background-image: url('{{ project.bg-image }}')" >
-                                <h4 class="align-middle">
+                                <!-- <h4 class="align-middle"> -->
                                     <a href="{{ project.url}}" class="roundedAll">
-                                        {{ project.name }}
+                                        <span class="invisible">{{ project.name }}</span>
                                     </a>
                                 </h4>
                             </div>
