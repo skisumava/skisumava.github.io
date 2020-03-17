@@ -1,9 +1,44 @@
+- name: 'Sraz SpS - Nová Pec'
+  date: 29. - 31.5.2020
+  url: 
+  proposition:
+  results: 
+  description: 'pouze nominovaní'
+
+- name: 'VT Přední Výtoň'
+  date: 11. - 14.6.2020
+  url: 
+  proposition:
+  results: 
+  description: '2006-2008, společně s WSV Grafenau'
+
+- name: 'VT NMNM'
+  date: 28.6. - 4.7.2020
+  url: 
+  proposition:
+  results: 
+  description: 'mladší + starší žactvo'
+
+- name: 'VT Beyerisch Eisestein'
+  date: 13. - 19. 7. 2020
+  url: 
+  proposition:
+  results: 
+  description: '2006-2008, společně s WSV Grafenau'
+    
 - name: 'Šumavský MTB maraton České spořitelny'
   date: 1. 8. 2020
   url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
   proposition: 
   results: 
   description: 
+ 
+- name: 'VT Finsterau'
+  date: 17. - 21.8.2020
+  url: 
+  proposition:
+  results: 
+  description: '2006-2008, společně s WSV Grafenau'  
 
 - name: 'ČT Šumavský skimaraton'
   date: 27. - 28. 2. 2021
@@ -12,9 +47,3 @@
   results: 
   description: 
   
-- name: 'Sraz SpS - Nová Pec'
-  date: 29. - 31. 5. 2020
-  url: 
-  proposition:
-  results: 
-  description: 'pouze nominovaní'
