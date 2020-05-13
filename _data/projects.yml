@@ -13,9 +13,8 @@
 
 - name: seriál závodů 5x Vimperkem
   url: 
-  bg-image: /img/logo_sksv_300x179.jpg
-
-  
+  bg-image: /img/logo_5xvpk.png
+     
 - name: INTERREG - přeshraniční spolupráce
   url: http://skisumava.cz/doc/euregio_2019/spolecne_sous_Stozec_2019_euregio.pdf
   bg-image: /img/euregio_2019_2.png
