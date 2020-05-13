@@ -1,11 +1,11 @@
 
 - name: ČT Šumavský skimaraton
   url: http://www.skimaraton.cz/main.aspx?lng=cz
-  bg-image: /img/logo_sm_234x250.jpg
+  bg-image: /img/logo_sm.png
 
 - name: Šumavský MTB maraton České spořitelny
   url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
-  bg-image: /img/logo_kpz_sumavsky_cyklomaraton_297x290.jpg
+  bg-image: /img/logo_kpz_sumavsky_mtb.jpg
 
 - name: Vodnická brusle
   url: 
