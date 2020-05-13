@@ -65,7 +65,7 @@ layout: default
                         <div class="col-lg-6 col-md-12" id="{{ project-id }}">
                             <div  class="project-content" style="background-image: url('{{ project.bg-image }}')" >
                                 <!-- <h4 class="align-middle"> -->
-                                    <a href="{{ project.url}}" class="roundedAll">
+                                    <a href="{{ project.url}}" target="_blank" class="roundedAll">
                                         <span class="invisible">{{ project.name }}</span>
                                     </a>
                                 </h4>
@@ -82,7 +82,7 @@ layout: default
                     <li class="list-group-item">
                         <h5>
                             {% if event.url %}
-                                <a href="{{ event.url }}">{{ event.name }}</a>
+                                <a href="{{ event.url }}"target="_blank">{{ event.name }}</a>
                             {% else %}
                                 {{ event.name }}
                             {% endif %}
