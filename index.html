@@ -55,23 +55,34 @@ layout: default
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container mb-3">
     <div class="row " >
         <div class="col-md-8">
-            <div id="projects">
-                <h3 class="my-4">Pořádáme + odkazy</h3>
-                <div class="row">
-                    {% for project in site.data.projects %}
-                        <div class="col-lg-6 col-md-12" id="{{ project-id }}">
-                            <div  class="project-content" style="background-image: url('{{ project.bg-image }}')" >
-                                <!-- <h4 class="align-middle"> -->
+            <div id="left-panel"">
+                <div id="projects">
+                    <h3 class="my-4">Pořádáme + odkazy</h3>
+                    <div class="row">
+                        {% for project in site.data.projects %}
+                            <div class="col-lg-6 col-md-12" id="{{ project-id }}">
+                                <div  class="project-content" style="background-image: url('{{ project.bg-image }}')" >
                                     <a href="{{ project.url}}" target="_blank" class="roundedAll">
                                         <span class="invisible">{{ project.name }}</span>
                                     </a>
-                                </h4>
+                                </div>
                             </div>
-                        </div>
-                    {% endfor %}
+                        {% endfor %}
+                    </div>
+                </div>
+                <div id="related">
+                    <h3 class="my-4">Odkazy</h3>
+                    <div class="text-center">
+                        <a href="/spolecne_sous_Stozec_2019_euregio.pdf">
+                            <h4 class="my-4">INTERREG - přeshraniční spolupráce</h4>
+                        </a>
+                        <a href="/spolecne_sous_Stozec_2019_euregio.pdf">
+                            <img alt="INTERREG - přeshraniční spolupráce" title="INTERREG - přeshraniční spolupráce" src="/img/euregio_2019_2.png" class="img-fluid border border-dark">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -141,6 +152,7 @@ layout: default
             var pT = Math.round((innerH - height)/2)
             var pInnerH = $(this).find(" > h4").css("padding-top", pT + "px")
         })
+        $("#calendar ul").innerHeight($("#left-panel").innerHeight());
     }
 
     $(window).on('resize', function() {

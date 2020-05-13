@@ -113,6 +113,11 @@ nav.navbar .nav-item a.lang-en
 	padding-top: 15px;
 }
 
+#calendar ul
+{
+	overflow: auto;
+}
+
 #calendar ul li div a:nth-of-type(2)::before {
    	content: " | "
 }
@@ -174,7 +179,7 @@ nav.navbar .nav-item a.lang-en
     border: 2px solid gray;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 #projects  div.project-content a {
