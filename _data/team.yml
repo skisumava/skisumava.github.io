@@ -87,11 +87,11 @@ staff:
 groups:
 
 - name: "dorost a junioři"
-  img: "/img/dorost.jpg"
+  img: "/img/group_pavlasek.jpg"
   content: "makáči"
 
 - name: "starší žactvo"
-  img: "/img/stzc.jpg"
+  img: "/img/group_steinbach.jpg"
   content: "žhavá záloha"
 
 - name: "mladší žactvo"
@@ -99,7 +99,7 @@ groups:
   content: "naděje"
 
 - name: "potěr"
-  img: "/img/poter.jpg"
+  img: "/img/group_hudeckova.jpg"
   content: "radost" 
 
 - name: "batolata"
