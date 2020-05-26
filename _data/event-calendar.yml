@@ -3,7 +3,7 @@
   url: 
   proposition:
   results: 
-  description: '2005-2007'
+  description: '2005-2008'
 
 - name: 'Vimperská tretra'
   date: 3.6.2020
@@ -18,6 +18,13 @@
   proposition:
   results: 
   description: '2006-2008'
+
+- name: 'Regionální závod v biatlonu'
+  date: 14.6.2020
+  url: 
+  proposition:
+  results: 
+  description: 'Vodník'
 
 - name: 'VT - NMNM'
   date: 28.6. - 4.7.2020
