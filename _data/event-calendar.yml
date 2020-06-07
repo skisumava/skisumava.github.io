@@ -12,20 +12,20 @@
   results: https://sportsoft.cz/cs/zavod/overview/5467
   description: 'atletika :-)'
 
-- name: 'Vodnická brusle'
-  date: 10.6.2020
-  url: https://registrace.sportsoft.cz/mregistration.aspx?m=267
-  proposition: http://sportsoft.cz/Related/2020/Vodnick%C3%A1-brusle_5480_propozice-z%C3%A1vodu/cs_pr_20200610_vodnicka_brusle.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/5480
-  description: 'závod na inline bruslích a kolečkových lyžích'
-
 - name: 'VT - Přední Výtoň'
   date: 11. - 14.6.2020
   url: 
   proposition:
   results: 
   description: '2006-2008'
-
+  
+- name: 'Vodnická brusle'
+  date: 17.6.2020
+  url: https://registrace.sportsoft.cz/mregistration.aspx?m=267
+  proposition: https://sportsoft.cz/Related/2020/Vodnick%C3%A1-brusle_5480_propozice-z%C3%A1vodu/cs_pr_20200617_vodnicka_brusle.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/5480
+  description: 'závod na inline bruslích a kolečkových lyžích'
+ 
 - name: 'Regionální závod v biatlonu'
   date: 14.6.2020
   url: 
