@@ -49,10 +49,10 @@
 
 - name: 'Efisan Skiroll Classics'
   date: 18. - 19.7.2020
-  url: https://www.silviniskirollclassics.com/zavody/sumava-i/
-  proposition:
-  results: 
-  description:
+  url: https://registrace.sportsoft.cz/mregistration.aspx?m=268 
+  proposition: http://sportsoft.cz/Related/2020/Efisan-Skiroll-Classics_5471_propozice-z%C3%A1vodu/cs_20200718_skirollclassics.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/5471
+  description: 'závod na kolečkových lyžích'
     
 - name: 'Šumavský MTB maraton České spořitelny'
   date: 1. 8. 2020
