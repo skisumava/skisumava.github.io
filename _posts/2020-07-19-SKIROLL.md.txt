@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Efisan Skiroll Classics 2020 - Šumava"
-preview-image: "/img/img_mcr_20200204.jpg"
+preview-image: "/img/img_skiroll.jpg"
 author: Zbynek Pavlásek
 excerpt_separator: <!--more-->
 ---
