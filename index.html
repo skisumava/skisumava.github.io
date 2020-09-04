@@ -93,7 +93,7 @@ layout: default
                     <li class="list-group-item">
                         <h5>
                             {% if event.url %}
-                                <a href="{{ event.url }}"target="_blank">{{ event.name }}</a>
+                                <a href="{{ event.url }}" >{{ event.name }}</a>
                             {% else %}
                                 {{ event.name }}
                             {% endif %}
@@ -101,13 +101,13 @@ layout: default
                         <div>
                             {{ event.date }}
                             {% if event.proposition %}
-                                <a href="{{ event.proposition }}"target="_blank"> Propozice </a>
+                                <a href="{{ event.proposition }}"> Propozice </a>
                             {% endif %}
                             {% if event.registration %}
-                                <a href="{{ event.registration }}"target="_blank"> Přihláška  </a>
+                                <a href="{{ event.registration }}"> Přihláška  </a>
                             {% endif %}
                             {% if event.results %}
-                                <a href="{{ event.results }}"target="_blank"> Výsledky </a>
+                                <a href="{{ event.results }}"> Výsledky </a>
                             {% endif %}
                             {% if event.description %}
                                 <p>
