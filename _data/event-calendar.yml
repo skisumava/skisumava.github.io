@@ -1,34 +1,26 @@
-- name: 'VT - NMNM'
-  date: 28.6. - 4.7.2020
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'mladší + starší žactvo'
+# - name: 'Efisan Skiroll Classics'
+#   date: 18. - 19.7.2020
+#   url: https://registrace.sportsoft.cz/mregistration.aspx?m=268
+#   proposition: https://sportsoft.cz/Related/2020/Efisan-Skiroll-Classics-%C5%A0umava_5471_propozice-z%C3%A1vodu/cs_20200718_skirollclassics.pdf
+#   results: https://sportsoft.cz/cs/zavod/overview/5471
+#   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=268
+#   description: 'závod na kolečkových lyžích'
 
-- name: 'Efisan Skiroll Classics'
-  date: 18. - 19.7.2020
-  url: https://registrace.sportsoft.cz/mregistration.aspx?m=268
-  proposition: https://sportsoft.cz/Related/2020/Efisan-Skiroll-Classics-%C5%A0umava_5471_propozice-z%C3%A1vodu/cs_20200718_skirollclassics.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/5471
-  registration: https://registrace.sportsoft.cz/mregistration.aspx?m=268
-  description: 'závod na kolečkových lyžích'
-
-- name: 'VT - cyklopuťák'
-  date: 20. - 24. 7. 2020
-  url:
-  proposition:
-  results:
-  registration:
-  description: '2001-2008'
-
-- name: 'Šumavský MTB maraton České spořitelny'
-  date: 1. 8. 2020
-  url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
-  proposition:
-  results:
-  registration:
-  description:
+# - name: 'VT - cyklopuťák'
+#   date: 20. - 24. 7. 2020
+#   url:
+#   proposition:
+#   results:
+#   registration:
+#   description: '2001-2008'
+#
+# - name: 'Šumavský MTB maraton České spořitelny'
+#   date: 1. 8. 2020
+#   url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
+#   proposition:
+#   results:
+#   registration:
+#   description:
 
 - name: 'VT - Finsterau'
   date: 17. - 21.8.2020
@@ -45,3 +37,43 @@
   results:
   registration:
   description:
+
+- name: 'Velká cena Vimperka I. - dráha'
+  date: 8.9.2020
+  url: /5xvimperkem.html
+  proposition: assets/pr_20200908_draha_5xVimperkem.pdf
+  results:
+  registration: https://registrace.sportsoft.cz/main.aspx?e=1717
+  description: '5x Vimperkem I. – dráha, atletické běhy'
+
+- name: 'Velká cena Vimperka II. - kolce'
+  date: 17.9. 2020
+  url: /5xvimperkem.html
+  proposition: assets/pr_20200917_kolce_5xVimperkem.pdf
+  results:
+  registration: https://registrace.sportsoft.cz/main.aspx?e=1718
+  description: '5x Vimperkem II. - In-line brusle, kolečkové lyže skate'
+
+- name: 'Velká cena Vimperka III. - opakáč'
+  date: 22.9. 2020
+  url: /5xvimperkem.html
+  proposition: assets/pr_20200922_opakac_5xVimperkem.pdf
+  results:
+  registration: https://registrace.sportsoft.cz/main.aspx?e=1719
+  description: '5x Vimperkem III. - opakované běhy'
+
+- name: 'Velká cena Vimperka IV. - kros'
+  date: 22.9. 2020
+  url: /5xvimperkem.html
+  proposition: assets/pr_20200929_kros_5xVimperkem.pdf
+  results:
+  registration: https://registrace.sportsoft.cz/main.aspx?e=1720
+  description: '5x Vimperkem IV. – lyžařský kros'
+
+- name: 'Velká cena Vimperka IV. - kopec'
+  date: 22.9. 2020
+  url: /5xvimperkem.html
+  proposition: assets/pr_20201018_kopec_5xVimperkem.pdf
+  results:
+  registration: https://registrace.sportsoft.cz/main.aspx?e=1721
+  description: '5x Vimperkem V. - Běh do vrchu Vodník - 29. ročník'
