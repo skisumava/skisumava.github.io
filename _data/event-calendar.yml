@@ -38,22 +38,22 @@
   registration:
   description:
 
-- name: 'Velká cena Vimperka I. - dráha'
-  date: 8.9.2020
-  url: /5xvimperkem.html
-  proposition: assets/pr_20200908_draha_5xVimperkem.pdf
-  results: https://sportsoft.cz/OfficialResults/2020/20200908_5xvpk1_draha_kat.pdf?202009.08.07.17
-  registration: https://registrace.sportsoft.cz/main.aspx?e=1717
-  description: '5x Vimperkem I. – dráha, atletické běhy'
-
-- name: 'Velká cena Vimperka II. - kolce'
-  date: 17.9. 2020
-  url: /5xvimperkem.html
-  proposition: assets/pr_20200917_kolce_5xVimperkem.pdf
-  results:
-  registration: https://registrace.sportsoft.cz/main.aspx?e=1718
-  description: '5x Vimperkem II. - In-line brusle, kolečkové lyže skate'
-
+#- name: 'Velká cena Vimperka I. - dráha'
+#  date: 8.9.2020
+#  url: /5xvimperkem.html
+#  proposition: assets/pr_20200908_draha_5xVimperkem.pdf
+#  results: https://sportsoft.cz/OfficialResults/2020/20200908_5xvpk1_draha_kat.pdf?202009.08.07.17
+#  registration: https://registrace.sportsoft.cz/main.aspx?e=1717
+#  description: '5x Vimperkem I. – dráha, atletické běhy'
+#
+#- name: 'Velká cena Vimperka II. - kolce'
+#  date: 17.9. 2020
+#  url: /5xvimperkem.html
+#  proposition: assets/pr_20200917_kolce_5xVimperkem.pdf
+#  results:
+#  registration: https://registrace.sportsoft.cz/main.aspx?e=1718
+# description: '5x Vimperkem II. - In-line brusle, kolečkové lyže skate'
+#
 - name: 'Velká cena Vimperka III. - opakáč'
   date: 22.9. 2020
   url: /5xvimperkem.html
@@ -71,7 +71,7 @@
   description: '5x Vimperkem IV. – lyžařský kros'
 
 - name: 'Velká cena Vimperka V. - kopec'
-  date: 17.10. 2020
+  date: 18.10. 2020
   url: /5xvimperkem.html
   proposition: assets/pr_20201018_kopec_5xVimperkem.pdf
   results:
