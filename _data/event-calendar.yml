@@ -5,7 +5,7 @@
 #   results: https://sportsoft.cz/cs/zavod/overview/5471
 #   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=268
 #   description: 'závod na kolečkových lyžích'
-
+#
 # - name: 'VT - cyklopuťák'
 #   date: 20. - 24. 7. 2020
 #   url:
@@ -21,23 +21,16 @@
 #   results:
 #   registration:
 #   description:
-
-- name: 'VT - Finsterau'
-  date: 17. - 21.8.2020
-  url:
-  proposition:
-  results:
-  registration:
-  description: '2006-2008, společně s WSV Grafenau'
-
-- name: 'ČT - Šumavský skimaraton'
-  date: 27. - 28. 2. 2021
-  url: http://www.skimaraton.cz/main.aspx?lng=cz
-  proposition:
-  results:
-  registration:
-  description:
-
+#
+#- name: 'VT - Finsterau'
+#  date: 17. - 21.8.2020
+#  url:
+#  proposition:
+#  results:
+#  registration:
+#  description: '2006-2008, společně s WSV Grafenau'
+#
+#
 #- name: 'Velká cena Vimperka I. - dráha'
 #  date: 8.9.2020
 #  url: /5xvimperkem.html
@@ -77,3 +70,12 @@
   results:
   registration: https://registrace.sportsoft.cz/main.aspx?e=1721
   description: '5x Vimperkem V. - Běh do vrchu Vodník - 29. ročník'
+
+- name: 'ČT - Šumavský skimaraton'
+  date: 27. - 28. 2. 2021
+  url: http://www.skimaraton.cz/main.aspx?lng=cz
+  proposition:
+  results:
+  registration:
+  description:
+
