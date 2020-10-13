@@ -63,13 +63,13 @@
 #   registration: https://registrace.sportsoft.cz/main.aspx?e=1720
 #   description: '5x Vimperkem IV. – lyžařský kros'
 
-- name: 'Velká cena Vimperka V. - kopec'
+- name: '5 x Vimperkem V. - kopec'
   date: 'Odloženo (COVID :( )'
   url: /5xvimperkem.html
   proposition:  #assets/pr_20201018_kopec_5xVimperkem.pdf
   results:
   registration: #https://registrace.sportsoft.cz/main.aspx?e=1721
-  description: '5x Vimperkem V. - Běh do vrchu Vodník - 29. ročník'
+  description: '29. Běh do vrchu Vodník'
 
 - name: 'ČT - Šumavský skimaraton'
   date: 27. - 28. 2. 2021
