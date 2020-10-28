@@ -170,11 +170,11 @@ nav.navbar .nav-item a.lang-en
 }
 
 
-#projects  div.row > div {
+.grid  div.row > div {
     margin-bottom: 10px;
 }
 
-#projects  div.project-content {
+.grid  div.grid-content {
     height:240px;
     border: 2px solid gray;
     background-position: center;
@@ -182,19 +182,17 @@ nav.navbar .nav-item a.lang-en
     background-size: contain;
 }
 
-#projects  div.project-content a {
+.grid  div.grid-content a {
     display: inline-block;
 	width: 100%;
 	height: 100%;
 }
 
-#projects  div.row h4 {
+.grid  div.row h4 {
     text-align: center;
-    padding-top: 65px;
-    font-size: 2.3em;
 }
 
-#projects  div.row h4 a {
+.grid  div.row h4 a {
     color: black;
     padding:10px 30px;
     background-color: rgba(200,200,23, 0.8);

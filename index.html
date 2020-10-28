@@ -59,13 +59,13 @@ layout: default
     <div class="row " >
         <div class="col-md-8">
             <div id="left-panel"">
-                <div id="projects">
+                <div id="projects" class="grid">
                     <h3 class="my-4">Pořádáme</h3>
                     <div class="row">
                         {% for project in site.data.projects %}
                             <div class="col-lg-6 col-md-12" id="{{ project-id }}">
-                                <div  class="project-content" style="background-image: url('{{ project.bg-image }}')" >
-                                    <a href="{{ project.url}}" target="_blank" class="roundedAll">
+                                <div  class="grid-content" style="background-image: url('{{ project.bg-image }}')" >
+                                    <a href="{{ project.url}}" class="roundedAll">
                                         <span class="invisible">{{ project.name }}</span>
                                     </a>
                                 </div>
@@ -73,18 +73,31 @@ layout: default
                         {% endfor %}
                     </div>
                 </div>
-                <div id="related">
-                    <h3 class="my-4">Odkazy</h3>
-                    <div class="text-center">
-                        <a href="/spolecne_sous_Stozec_2019_euregio.pdf">
-                            <h5 class="my-4">INTERREG - přeshraniční spolupráce</h5>
-                        </a>
-                        <a href="/spolecne_sous_Stozec_2019_euregio.pdf">
-                            <img alt="INTERREG - přeshraniční spolupráce" title="INTERREG - přeshraniční spolupráce" src="/img/euregio_2019_2.png" class="img-fluid border border-dark">
-                        </a>
-                    
-                    </div>
-                </div>
+                    {% if site.data.related.size  > 0 %}
+                        <div id="related" class="grid">
+                            <h3 class="my-4">Odkazy</h3>
+                            <div class="row">
+                                {% assign css_class = "col-lg-12 col-md-12" %}
+                                {% if site.data.related.size  > 1 %}
+                                    {% assign css_class = "col-lg-6 col-md-12" %}
+                                {% endif %}
+                                {% for item in site.data.related %}
+                                    <div class="{{ css_class }}">
+                                        <div class="text-center">
+                                            <a href="{{ item.url }}">
+                                                <h4 class="my-4">{{ item.name }}</h4>
+                                            </a>
+                                            <div  class="grid-content" style="background-image: url('{{ item.bg-image }}')" >
+                                                <a href="{{ item.url}}"  class="roundedAll">
+                                                    <span class="invisible">{{ item.name }}</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endif %}
             </div>
         </div>
         <div id="calendar" class="col-md-4" >
