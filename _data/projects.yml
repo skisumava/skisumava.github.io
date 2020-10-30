@@ -1,16 +1,16 @@
-
+#
 - name: ČT Šumavský skimaraton
   url: http://www.skimaraton.cz/main.aspx?lng=cz
   bg-image: /img/logo_sm.png
 
-- name: Šumavský MTB maraton České spořitelny
-  url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
-  bg-image: /img/logo_kpz_sumavsky_mtb.jpg
-
-- name: Efisan Skiroll Classics
-  url: http://skisumava.cz/skirollclassics
-  bg-image: /img/logo_skiroll.png
-
+#- name: Šumavský MTB maraton České spořitelny
+#  url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
+#  bg-image: /img/logo_kpz_sumavsky_mtb.jpg
+#
+#- name: Efisan Skiroll Classics
+#  url: http://skisumava.cz/skirollclassics
+#  bg-image: /img/logo_skiroll.png
+#
 - name: seriál závodů 5x Vimperkem
   url: 5xvimperkem.html
   bg-image: /img/logo_5xvpk.png
