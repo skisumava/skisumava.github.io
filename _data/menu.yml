@@ -12,3 +12,6 @@
 
 - name: Kontakt
   url: /kontakt
+
+- name: Vodník - Rozpis
+  url:  '/#vodnik-kalendar'
