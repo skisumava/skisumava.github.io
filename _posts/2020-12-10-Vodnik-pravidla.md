@@ -19,7 +19,7 @@ Pravidla pro organizovaný trénink skupin jsou nastavena takto:
 - v souladu s organizačním řádem Sportovního areálu Vodník, je použití areálu zdarma.
 
 
-Termíny tréniku jednotlivých skupin jsou zveřejněny v <a href='/#vodnik-kalendar'>kalendáři "Vodník - rozpis tréninků"</a> na stránkách klubu.
+Termíny tréniku jednotlivých skupin jsou zveřejněny v <a href='/#vodnik-kalendar'  target="_blank>kalendáři "Vodník - rozpis tréninků"</a> na stránkách klubu.
 
 
 Děkuji zejména TJ Ski Sokol Stachy a Ski klub Strakonice za pochopení a akceptaci výše uvedených pravidel.
