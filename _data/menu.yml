@@ -4,7 +4,7 @@
 - name: Pořádáme
   url: '/#projects'
 
-- name: Kalendář
+- name: Kalendář závodů
   url:  '/#calendar'
 
 - name: Team
