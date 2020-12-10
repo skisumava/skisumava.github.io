@@ -7,11 +7,11 @@
 - name: Vodník - Rozpis
   url:  '/#vodnik-kalendar'
 
-- name: Pořádáme
-  url: '/#projects'
-
 - name: Kalendář závodů
   url:  '/#calendar'
+
+- name: Pořádáme
+  url: '/#projects'
 
 - name: Team
   url: '/team'
