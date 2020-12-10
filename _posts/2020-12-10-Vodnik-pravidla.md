@@ -14,8 +14,8 @@ Pravidla pro organizovaný trénink skupin jsou nastavena takto:
 
 - domácí Fischer Ski klub Šumava Vimperk dle dlouhodobého plánu skupin
 - přespolní oddíly a skupiny na základě žádosti a po dohodě se mnou (nejlépe WhatsApp na číslo 721141081) ve volných termínech
-- v souladu s organizačním řádem Sportovního areálu Vodník, je použití areálu zdarma
 - lyžující jednotlivá veřejnost bez omezení a žádosti. V době organizovaných schválených tréninků vždy po dohodě s přítomným trenérem
+- v souladu s organizačním řádem Sportovního areálu Vodník, je použití areálu zdarma
 
 Termíny tréniků jednotlivých skupin jsou zveřejněny níže v kalendáři <a href="/#vodnik-kalendar" target="_blank">"Vodník - rozpis tréninků"</a> na stránkách klubu.
 
