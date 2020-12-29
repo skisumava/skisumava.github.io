@@ -1,6 +1,6 @@
 - name: Starý web
   url: http://old.skisumava.cz/main.aspx
-# 
+#
 # - name: Vodník - rozpis tréninků
 #   url:  '/#vodnik-kalendar'
 
@@ -12,6 +12,9 @@
 
 - name: Team
   url: '/team'
+
+- name: Bazárek
+  url:  '/bazarek'
 
 - name: Kontakt
   url: /kontakt
