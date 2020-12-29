@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lyžování na Vodníku"
-preview-image: 
+preview-image: "/img/20201229_vodnik.jpg"
 author: Karel Hudeček
 excerpt_separator: <!--more-->
 ---
