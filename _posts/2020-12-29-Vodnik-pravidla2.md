@@ -6,8 +6,8 @@ author: Karel Hudeček
 excerpt_separator: <!--more-->
 ---
 
-Asi není třeba dlouze připomínat vládní opatření. Ono by to ostatně značně ubíralo na aktuálnosti tohoto článku...
-Ale k věci. Vyzýváme všechny návštěvníky skiareálu Vodník, aby se chovali v SOULADU s aktuálně platnými opatřeními.
+Asi není třeba dlouze připomínat současná vládní opatření. Ono by to ostatně značně ubíralo na aktuálnosti tohoto článku...
+Takže, vyzýváme všechny návštěvníky skiareálu Vodník, aby se chovali v SOULADU s aktuálně platnými opatřeními.
 Lyžujte, ale neshlukujte se.
 
 Areál je luxusně připraven. Užijme si ho!!!
