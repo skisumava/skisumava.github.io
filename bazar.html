@@ -1,0 +1,52 @@
+---
+layout: default
+title: Bazárek
+comments: true
+---
+<div class="container mt-5 mb-5" >
+
+    <h2>SKI klubácký BAZÁREK</h2>
+
+    <hr />
+
+    <p class="lead">
+        Máte doma lyžařské vybavení z kterého vám už děti vyrostly. Nebo sháníte pro děti vybavení na sezónu a nechce se vám investovat do nového. Tak přesně pro vás je tu
+        SKI klubácký BAZÁREK. Místo kde si skiklubáci mohou snadno a rychle nabídnout/poptat lyžařské ale i další sportovní vybavení.
+    </p>
+    <p>Navazujeme tak na úspěšný bazárek na starém webu. Doba pokročila, technologie také. Využíváme nástroj DISQUS. Před použitím se musíte přihlásit, tím se vám u DISQUS vytvoří účet.. Není to složité, přesto <a href="/assets/Skiklubacky_BAZAREK_navod.pdf" target="_blank">zde</a> stručný návod.
+
+    <div class="alert alert-warning" role="alert">
+      <h4>Pravidla pro přispívání do BAZÁRKU</h4>
+      <ul>
+        <li>Příspěvek s nabídkou/poptávkou založte vždy v hlavní úrovni ne jako odpověď na již existující příspěvek.</li>
+        <li>Uvést zda jde o nabídku nebo poptávku.</li>
+        <li>K příspěvku s nabídkou/poptávkou vždy doplňte kontaktní informace (e-mail, telefon, FB účet,...).</li>
+        <li>K příspěvku s nabídkou/poptávkou doplňte podle možností fotografií.</li>
+        <li>Pokud chcete reagovat na nabídku/poptávku piště své reakce jako odpověď k hlavnímu příspěvku. Veškerou komunikaci k nabídce/poptávce udržujte v rámci odpovědí k hlavnímu příspěvku.</li>
+      </ul>
+     <small>Pro názornost vložen jeden ukázkový příspěvek.</small>
+    </div>
+
+    {% if page.comments %}
+        <div id="disqus_thread"></div>
+        <script>
+            /**
+            *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+            *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+
+            var disqus_config = function () {
+                this.page.url = "{{ site.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "skisumava-bazar"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+
+            (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = 'https://http-skisumava-cz.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    {% endif %}
+
+</div>
