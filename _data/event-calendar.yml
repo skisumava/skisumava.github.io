@@ -86,24 +86,24 @@
 #   results: 
 #   registration: 
 #   description: 'Zadov, K, mass.' 
-
-- name: 'ZRUŠENO - KKZ3'
-  date: 7.1.2021 - podle vládních omezení
-  url: 
-  proposition: 
-  results: 
-  registration: 
-  description: 'Vimperk, Vodník, obratnostní'
-
-- name: 'KKZ4'
-  date: 14.1.2021
-  url: 
-  proposition: 
-  results: 
-  registration: 
-  description: 'Vimperk, Vodník, obratnostní'
-
-- name: 'Lyžuj Lesy'
+#
+#- name: 'ZRUŠENO - KKZ3'
+#  date: 7.1.2021 - podle vládních omezení
+#  url: 
+#  proposition: 
+#  results: 
+#  registration: 
+#  description: 'Vimperk, Vodník, obratnostní'
+#
+#- name: 'ZRUŠENO - KKZ4'
+#  date: 14.1.2021
+#  url: 
+#  proposition: 
+#  results: 
+#  registration: 
+#  description: 'Vimperk, Vodník, obratnostní'
+#
+- name: 'Lyžuj Lesy - odloženo na neurčito'
   date: 20.1.2021
   url: 
   proposition: 
