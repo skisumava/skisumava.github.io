@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mistrovství ČR žáctva 7.-9.2.2021 Vimperk, Vodník"
-preview-image: "/img/20200208_cp_vodnik"
+preview-image: "/img/20200208_cp_vodnik.jpg"
 author: Karel Hudeček
 excerpt_separator: <!--more-->
 ---
