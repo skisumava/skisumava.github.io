@@ -15,5 +15,6 @@ Zároveň vás chceme informovat, že Svaz lyžařů ČR nemůže pro konání �
 Jakmile vládní protiepidemiologická dovolí konání žákovských závodů, budeme vás informovat o dalším postupu.
 
 Těšíme se na setkání a buďte zdrávi.
+
 Fischer Ski klub Šumava Vimperk
  <!--more-->
