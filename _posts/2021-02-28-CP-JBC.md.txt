@@ -2,7 +2,7 @@
 layout: post
 title: "FIS ČP v běhu na lyžích v Jablonci nad Nisou"
 preview-image: "/img/20200227_ahonsova_cp_jbc.jpg"
-author: Karel Hudeček
+author: Zbyněk Pavlásek
 excerpt_separator: <!--more-->
 ---
 
@@ -18,7 +18,5 @@ V dorosteneckých kategoriích se nejlépe dařilo Anežce Honsové (starší do
 Mezi mladšími dorostenci si ještě umístění v první desítce vybojovali Jakub Steinbach (8. místo mass start klasicky),  David Vyskočil 2x9.místo v obou distancích.
 
 Velice pěkně závodili i ostatní závodníci našeho klubu, a to i přesto že pro některé to byly první velké závody v sezóně i v dosavadní kariéře. Kompletní výsledkový servis na www.sport-casomira.cz, případně na stránkách svazu lyžařů ČR v sekci závodů, běh na lyžích.
-
-Zbyněk Pavlásek, trenér
 
  <!--more-->
