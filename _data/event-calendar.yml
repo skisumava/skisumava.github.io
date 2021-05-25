@@ -62,7 +62,7 @@
 #   results:
 #   registration: https://registrace.sportsoft.cz/main.aspx?e=1720
 #   description: '5x Vimperkem IV. – lyžařský kros'
-# 
+#
 # - name: '5 x Vimperkem V. - kopec'
 #   date: 'Odloženo - Čínská chřipka COVID-19 :(??.??.202?)'
 #   url: /5xvimperkem.html
@@ -70,77 +70,77 @@
 #   results:
 #   registration: #https://registrace.sportsoft.cz/main.aspx?e=1721
 #   description: '29. Běh do vrchu Vodník'
-# 
+#
 # - name: 'ZRUŠENO - 1. sníh, KKZ1'
 #   date: 19.12.2020
-#   url: 
-#   proposition: 
-#   results: 
-#   registration: 
+#   url:
+#   proposition:
+#   results:
+#   registration:
 #   description: 'Vimperk, Vodník, V, int.'
-# 
+#
 # - name: 'KKZ2'
 #   date: 27.12.2020
-#   url: 
-#   proposition: 
-#   results: 
-#   registration: 
-#   description: 'Zadov, K, mass.' 
+#   url:
+#   proposition:
+#   results:
+#   registration:
+#   description: 'Zadov, K, mass.'
 #
 #- name: 'ZRUŠENO - KKZ3'
 #  date: 7.1.2021 - podle vládních omezení
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Vimperk, Vodník, obratnostní'
 #
 #- name: 'ZRUŠENO - KKZ4'
 #  date: 14.1.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Vimperk, Vodník, obratnostní'
 #
 #  - name: 'ZRUŠENO - O pohár starosty, KKZ5'
 #    date: 23.1.2021
-#    url: 
-#    proposition: 
-#    results: 
-#    registration: 
+#    url:
+#    proposition:
+#    results:
+#    registration:
 #    description: 'K. Huť, K, int.'
-#  
+#
 #  - name: 'ZRUŠENO - KP1, KKZ6'
 #    date: 30.1.2021
-#    url: 
-#    proposition: 
-#    results: 
-#    registration: 
+#    url:
+#    proposition:
+#    results:
+#    registration:
 #    description: 'Vimperk, Vodník, V, int.'
-#  
+#
 # - name: '??? Stašská 15, KP2, KKZ7'
 #  date: 31.1.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Zadov, K, mass.'
 #
 #- name: 'ODLOŽENO - Mistrovství ČR žactva'
 #  date: 5.-7.2.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Vimperk, Vodník'
 #
 #- name: 'KKZ8'
 #  date: 18.2.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Vimperk, Vodník, obratnostní'
 #
 #- name: 'ČT - Šumavský skimaraton'
@@ -153,43 +153,43 @@
 #
 #- name: 'KKZ9'
 #  date: 11.3.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Vimperk, Vodník, obratnostní'
-#  
+#
 #- name: 'Jarní běh, KKZ10'
 #  date: 21.3.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Zadov, V, mass.'
 #
 #- name: 'Lyžuj Lesy - odloženo na neurčito'
 #  date: 20.1.2021
-#  url: 
-#  proposition: 
-#  results: 
-#  registration: 
+#  url:
+#  proposition:
+#  results:
+#  registration:
 #  description: 'Vimperk, Vodník, obratnostní'
 #
 - name: 'Skiroll Classics'
-   date: 26. - 27.6.2021
-   url: https://registrace.sportsoft.cz/mregistration.aspx?m=301
-   proposition: 
-   results: 
-   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=301
-   description: 'závod na kolečkových lyžích'
+  date: 26. - 27.6.2021
+  url: https://registrace.sportsoft.cz/mregistration.aspx?m=301
+  proposition:
+  results:
+  registration: https://registrace.sportsoft.cz/mregistration.aspx?m=301
+  description: 'závod na kolečkových lyžích'
 
 - name: 'Šumavský MTB Maraton STRABAG'
-   date: 31. 7. 2021
-   url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-strabag/trasy
-   proposition:
-   results:
-   registration:
-   description:
+  date: 31. 7. 2021
+  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-strabag/trasy
+  proposition:
+  results:
+  registration:
+  description:
 
 - name: 'ČT - Šumavský skimaraton'
   date: 26. - 27. 2. 2022
