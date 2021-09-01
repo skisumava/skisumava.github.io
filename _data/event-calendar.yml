@@ -30,45 +30,45 @@
 #  registration:
 #  description: '2006-2008, společně s WSV Grafenau'
 #
-- name: '5 x Vimperkem I. - dráha'
-  date: 7.9.2021
-  url: /5xvimperkem.html
-  proposition: assets/pr_20210907_draha_5xVimperkem.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/6921
-  registration: https://registrace.sportsoft.cz/main.aspx?e=2038
-  description: '5x Vimperkem I. – dráha, atletické běhy'
+ - name: '5 x Vimperkem I. - dráha'
+   date: 7.9.2021
+   url: /5xvimperkem.html
+   proposition: assets/pr_20210907_draha_5xVimperkem.pdf
+   results: https://sportsoft.cz/cs/zavod/overview/6921
+   registration: https://registrace.sportsoft.cz/main.aspx?e=2038
+   description: '5x Vimperkem I. – dráha, atletické běhy'
 
-- name: '5 x Vimperkem II. - opakáč'
-  date: 14.9. 2021
-  url: /5xvimperkem.html
-  proposition: assets/pr_20210914_opakac_5xVimperkem.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/6922
-  registration: https://registrace.sportsoft.cz/main.aspx?e=2040
- description: '5x Vimperkem II. - opakované běhy'
+ - name: '5 x Vimperkem II. - opakáč'
+   date: 14.9. 2021
+   url: /5xvimperkem.html
+   proposition: assets/pr_20210914_opakac_5xVimperkem.pdf
+   results: https://sportsoft.cz/cs/zavod/overview/6922
+   registration: https://registrace.sportsoft.cz/main.aspx?e=2040
+   description: '5x Vimperkem II. - opakované běhy'
 
-- name: '5 x Vimperkem III. - opakáč'
-  date: 21.9. 2021
-  url: /5xvimperkem.html
-  proposition: assets/pr_20210921_kolce_5xVimperkem.pdf
-  results: https://sportsoft.cz/en/race/overview/6923
-  registration: https://registrace.sportsoft.cz/main.aspx?e=2039
-  description: '5x Vimperkem III. - In-line brusle, kolečkové lyže skate'
+ - name: '5 x Vimperkem III. - opakáč'
+   date: 21.9. 2021
+   url: /5xvimperkem.html
+   proposition: assets/pr_20210921_kolce_5xVimperkem.pdf
+   results: https://sportsoft.cz/en/race/overview/6923
+   registration: https://registrace.sportsoft.cz/main.aspx?e=2039
+   description: '5x Vimperkem III. - In-line brusle, kolečkové lyže skate'
 
-- name: '5 x Vimperkem IV. - kros'
-  date: 5.10. 2021
-  url: /5xvimperkem.html
-  proposition: assets/pr_20211005_kros_5xVimperkem.pdf
-  results: https://sportsoft.cz/en/race/overview/6924
-  registration: https://registrace.sportsoft.cz/main.aspx?e=2041
-  description: '5x Vimperkem IV. – lyžařský kros'
+ - name: '5 x Vimperkem IV. - kros'
+   date: 5.10. 2021
+   url: /5xvimperkem.html
+   proposition: assets/pr_20211005_kros_5xVimperkem.pdf
+   results: https://sportsoft.cz/en/race/overview/6924
+   registration: https://registrace.sportsoft.cz/main.aspx?e=2041
+   description: '5x Vimperkem IV. – lyžařský kros'
 
-- name: '5 x Vimperkem V. - kopec'
-  date: '23.10.2021'
-  url: /5xvimperkem.html
-  proposition:  #assets/pr_20211023_kopec_5xVimperkem.pdf
-  results: https://sportsoft.cz/en/race/overview/6925
-  registration: #https://registrace.sportsoft.cz/main.aspx?e=2042
-  description: '30. Běh do vrchu Vodník'
+ - name: '5 x Vimperkem V. - kopec'
+   date: '23.10.2021'
+   url: /5xvimperkem.html
+   proposition:  #assets/pr_20211023_kopec_5xVimperkem.pdf
+   results: https://sportsoft.cz/en/race/overview/6925
+   registration: #https://registrace.sportsoft.cz/main.aspx?e=2042
+   description: '30. Běh do vrchu Vodník'
 #
 # - name: 'ZRUŠENO - 1. sníh, KKZ1'
 #   date: 19.12.2020
