@@ -77,96 +77,96 @@
    results: https://sportsoft.cz/cs/zavod/overview/7127
    registration: https://registrace.sportsoft.cz/registration.aspx?e=2256&lng=cz
    description: 'Vimperk, Vodník, V, int.'
-#
-# - name: 'KKZ2'
-#   date: 27.12.2020
-#   url:
-#   proposition:
-#   results:
-#   registration:
-#   description: 'Zadov, K, mass.'
-#
-#- name: 'ZRUŠENO - KKZ3'
-#  date: 7.1.2021 - podle vládních omezení
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Vimperk, Vodník, obratnostní'
-#
-#- name: 'ZRUŠENO - KKZ4'
-#  date: 14.1.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Vimperk, Vodník, obratnostní'
-#
-#  - name: 'ZRUŠENO - O pohár starosty, KKZ5'
-#    date: 23.1.2021
-#    url:
-#    proposition:
-#    results:
-#    registration:
-#    description: 'K. Huť, K, int.'
-#
-#  - name: 'ZRUŠENO - KP1, KKZ6'
-#    date: 30.1.2021
-#    url:
-#    proposition:
-#    results:
-#    registration:
-#    description: 'Vimperk, Vodník, V, int.'
-#
-# - name: '??? Stašská 15, KP2, KKZ7'
-#  date: 31.1.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Zadov, K, mass.'
-#
-#- name: 'ODLOŽENO - Mistrovství ČR žactva'
-#  date: 5.-7.2.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Vimperk, Vodník'
-#
-#- name: 'KKZ8'
-#  date: 18.2.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Vimperk, Vodník, obratnostní'
-#
-#
-#- name: 'KKZ9'
-#  date: 11.3.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Vimperk, Vodník, obratnostní'
-#
-#- name: 'Jarní běh, KKZ10'
-#  date: 21.3.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Zadov, V, mass.'
-#
-#- name: 'Lyžuj Lesy - odloženo na neurčito'
-#  date: 20.1.2021
-#  url:
-#  proposition:
-#  results:
-#  registration:
-#  description: 'Vimperk, Vodník, obratnostní'
-#
+
+ - name: 'Stašská 15, KKZ2'
+   date: 8.1.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Zadov, K'
+
+ - name: 'KKZ3'
+  date: 16.1.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Vimperk, Vodník, volně'
+
+ - name: 'Český pohár st. žactvo, Vimperk'
+  date: 22.-23.1.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Vimperk, Vodník, starší žactvo'
+
+ - name: 'KKZ4'
+    date: 27.1.2022
+    url:
+    proposition:
+    results:
+    registration:
+    description: 'mladší žactvo a níže, obratnostní'
+
+ - name: 'O pohár starosty KH'
+    date: 12.2.2022
+    url:
+    proposition:
+    results:
+    registration:
+    description: 'Kubova Huť'
+
+ - name: 'Krajský přebor'
+  date: 13.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Vimperk, volně'
+
+- name: 'KKZ'
+  date: 17.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'mladší žactvo a níže, obratnostní'
+
+- name: 'Český pohár dorost, Zadov'
+  date: 19.-20.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Zadov'
+  
+- name: 'Šumavský skimaraton TV NOVA'
+  date: 26. - 27. 2. 2022
+  url: http://www.skimaraton.cz/main.aspx?lng=cz
+  proposition: http://skimaraton.cz/main.aspx?lng=cz
+  results:
+  registration:
+  description: 'Kvilda'
+
+- name: 'KKZ'
+  date: 3.3.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'mladší žactvo a níže, obratnostní'
+
+- name: 'Jarní běh, KKZ10'
+  date: 19.3.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Zadov, V, mass.'
+
+
 #- name: 'Vodnická Brusle'
 #  date: 22.6.2021
 #  url: 
@@ -191,10 +191,3 @@
 #  registration:
 #  description:
 #
-- name: 'Šumavský skimaraton TV NOVA'
-  date: 26. - 27. 2. 2022
-  url: http://www.skimaraton.cz/main.aspx?lng=cz
-  proposition: http://skimaraton.cz/main.aspx?lng=cz
-  results:
-  registration:
-  description: 'Kvilda'
