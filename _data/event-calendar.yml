@@ -87,84 +87,84 @@
    description: 'Zadov, K'
 
  - name: 'KKZ3'
-  date: 16.1.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Vimperk, Vodník, volně'
+   date: 16.1.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Vimperk, Vodník, volně'
 
  - name: 'Český pohár st. žactvo, Vimperk'
-  date: 22.-23.1.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Vimperk, Vodník, starší žactvo'
+   date: 22.-23.1.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Vimperk, Vodník, starší žactvo'
 
  - name: 'KKZ4'
-    date: 27.1.2022
-    url:
-    proposition:
-    results:
-    registration:
-    description: 'mladší žactvo a níže, obratnostní'
+   date: 27.1.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'mladší žactvo a níže, obratnostní'
 
- - name: 'O pohár starosty KH'
-    date: 12.2.2022
-    url:
-    proposition:
-    results:
-    registration:
-    description: 'Kubova Huť'
+ - name: 'O pohár starosty'
+   date: 12.2.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Kubova Huť'
 
  - name: 'Krajský přebor'
-  date: 13.2.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Vimperk, volně'
+   date: 13.2.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Vimperk, volně'
 
  - name: 'KKZ'
-  date: 17.2.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'mladší žactvo a níže, obratnostní'
+   date: 17.2.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'mladší žactvo a níže, obratnostní'
 
  - name: 'Český pohár dorost, Zadov'
-  date: 19.-20.2.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Zadov'
+   date: 19.-20.2.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Zadov'
   
  - name: 'Šumavský skimaraton TV NOVA'
-  date: 26. - 27. 2. 2022
-  url: http://www.skimaraton.cz/main.aspx?lng=cz
-  proposition: http://skimaraton.cz/main.aspx?lng=cz
-  results:
-  registration:
-  description: 'Kvilda'
+   date: 26. - 27. 2. 2022
+   url: http://www.skimaraton.cz/main.aspx?lng=cz
+   proposition: http://skimaraton.cz/main.aspx?lng=cz
+   results:
+   registration:
+   description: 'Kvilda'
 
-- name: 'KKZ'
-  date: 3.3.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'mladší žactvo a níže, obratnostní'
+ - name: 'KKZ'
+   date: 3.3.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'mladší žactvo a níže, obratnostní'
 
  - name: 'Jarní běh, KKZ10'
-  date: 19.3.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Zadov, V, mass.'
+   date: 19.3.2022
+   url:
+   proposition:
+   results:
+   registration:
+   description: 'Zadov, V, mass.'
 #
 #- name: 'Vodnická Brusle'
 #  date: 22.6.2021
