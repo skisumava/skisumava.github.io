@@ -86,13 +86,13 @@
    registration: https://registrace.sportsoft.cz/registration.aspx?e=2267&lng=cz
    description: 'Vimperk, Vodník, V'
 
- - name: 'KKZ3'
+ - name: 'Vodnická klása, KKZ'
    date: 16.1.2022
    url:
-   proposition:
-   results:
-   registration:
-   description: 'Vimperk, Vodník, volně'
+   proposition: https://sportsoft.cz/Related/2022/Vodnick%C3%A1-kl%C3%A1sa_7139_propozice-z%C3%A1vodu/cs_pr_20220102_vodnicka_klasa.pdf
+   results: https://sportsoft.cz/cs/zavod/overview/7139
+   registration: https://registrace.sportsoft.cz/registration.aspx?e=2268&lng=cz
+   description: 'Vimperk, Vodník, klasicky'
 
  - name: 'Český pohár st. žactvo, Vimperk'
    date: 22.-23.1.2022
