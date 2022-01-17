@@ -10,8 +10,8 @@
 - name: Pořádáme
   url: '/#projects'
 
-# - name: ČP Žactva
-#   url: '/cp-zactva'
+- name: ČP Žactva
+  url: '/cp-zactva'
 
 - name: Team
   url: '/team'
