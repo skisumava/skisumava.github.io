@@ -79,12 +79,12 @@
    description: 'Zadov, V, mass.'
 
  - name: '----------------------------------'
-   date: starší výsledky
+   date:
    url:
    proposition:
    results:
    registration:
-   description: 'starší výsledky' 
+   description: 
  
  - name: 'Vodnická klása, KKZ'
    date: 16.1.2022
