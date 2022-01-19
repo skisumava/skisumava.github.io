@@ -16,7 +16,7 @@
 - name: Rouvy
   url: https://rouvy.com
   cssid: partner-rouvy
-  image: '/img/rouvy-logo-invert.png'
+  image: '/img/rouvy-logo-invert2.png'
 
 - name: Giant
   url: https://www.giant-bicycles.com/cz
@@ -28,11 +28,11 @@
   cssid: partner-lazadov
   image: '/img/logo_la_zadov_2015_160.jpg'
 
-- name: "Víletní restaurace Vodník"
+- name: "Výletní restaurace Vodník"
   url: http://www.restaurace-vodnik.cz/
   cssid: partner-vodnik
   image: '/img/logo_vodnik_300.png'
-
+  
 - name: "Auto JM"
   url: http://www.autojm.cz/
   cssid: partner-autojm
