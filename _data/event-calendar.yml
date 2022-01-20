@@ -77,14 +77,6 @@
    results:
    registration:
    description: 'Zadov, V, mass.'
-
- - name: '----------------------------------'
-   date:
-   url:
-   proposition:
-   results:
-   registration:
-   description: 
  
  - name: 'Vodnická klása, KKZ'
    date: 16.1.2022
