@@ -1,156 +1,157 @@
- - name: 'Český pohár st. žactvo, Vimperk'
-   date: 22.-23.1.2022
-   url:
-   proposition:  assets/pr_cp_zactva_vimperk_20220122.pdf
-   results:
-   registration:
-   description: 'Vimperk, Vodník, starší žactvo'
+- name: 'Český pohár st. žactvo, Vimperk'
+  date: 22.-23.1.2022
+  url:
+  proposition:  assets/pr_cp_zactva_vimperk_20220122.pdf
+  results:
+  registration:
+  description: 'Vimperk, Vodník, starší žactvo'
 
- - name: 'KKZ4'
-   date: 27.1.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'mladší žactvo a níže, obratnostní'
+- name: 'KKZ4'
+  date: 27.1.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'mladší žactvo a níže, obratnostní'
 
- - name: 'O pohár starosty'
-   date: 12.2.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'Kubova Huť'
 
- - name: 'Krajský přebor'
-   date: 13.2.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'Vimperk, volně'
+- name: 'O pohár starosty'
+  date: 12.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Kubova Huť'
 
- - name: 'KKZ'
-   date: 17.2.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'mladší žactvo a níže, obratnostní'
+- name: 'Krajský přebor'
+  date: 13.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Vimperk, volně'
 
- - name: 'Český pohár dorost, Zadov'
-   date: 19.-20.2.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'Zadov'
+- name: 'KKZ'
+  date: 17.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'mladší žactvo a níže, obratnostní'
 
- - name: 'Stašská 15, KKZ2'
-   date: 22.2.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'Zadov, K'
-  
- - name: 'Šumavský skimaraton TV NOVA'
-   date: 26. - 27. 2. 2022
-   url: http://www.skimaraton.cz/main.aspx?lng=cz
-   proposition: http://skimaraton.cz/main.aspx?lng=cz
-   results:
-   registration:
-   description: 'Kvilda'
+- name: 'Český pohár dorost, Zadov'
+  date: 19.-20.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Zadov'
 
- - name: 'KKZ'
-   date: 3.3.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'mladší žactvo a níže, obratnostní'
+- name: 'Stašská 15, KKZ2'
+  date: 22.2.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Zadov, K'
 
- - name: 'Jarní běh, KKZ10'
-   date: 19.3.2022
-   url:
-   proposition:
-   results:
-   registration:
-   description: 'Zadov, V, mass.'
- 
- - name: 'Vodnická klása, KKZ'
-   date: 16.1.2022
-   url:
-   proposition: https://sportsoft.cz/Related/2022/Vodnick%C3%A1-kl%C3%A1sa_7139_propozice-z%C3%A1vodu/cs_pr_20220102_vodnicka_klasa.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/7139
-   registration: https://registrace.sportsoft.cz/registration.aspx?e=2268&lng=cz
-   description: 'Vimperk, Vodník, klasicky'
-   
- - name: '1. obratnostní čtvrtek, KZ'
-   date: 13.1.2022
-   url:
-   proposition: https://sportsoft.cz/Related/2022/1.-obratnostn%C3%AD-%C4%8Dtvrtek_7138_propozice-z%C3%A1vodu/cs_pr_20220113_1obratnostnictvrtek.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/7138 
-   registration: https://registrace.sportsoft.cz/registration.aspx?e=2267&lng=cz
-   description: 'Vimperk, Vodník, V'
-   
- - name: 'Vodnický otvírák, KKZ1'
-   date: 2.1.2022
-   url:
-   proposition: https://sportsoft.cz/Related/2022/Vodnick%C3%BD-otv%C3%ADr%C3%A1k_7127_propozice-z%C3%A1vodu/cs_pr_20220102_vodnicky_otvirak.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/7127
-   registration: https://registrace.sportsoft.cz/registration.aspx?e=2256&lng=cz
-   description: 'Vimperk, Vodník, V, int.'
+- name: 'Šumavský skimaraton TV NOVA'
+  date: 26. - 27. 2. 2022
+  url: http://www.skimaraton.cz/main.aspx?lng=cz
+  proposition: http://skimaraton.cz/main.aspx?lng=cz
+  results:
+  registration:
+  description: 'Kvilda'
 
- - name: '5 x Vimperkem V. - kopec'
-   date: 23.10.2021
-   url: /5xvimperkem.html
-   proposition:  assets/pr_20211023_kopec_5xVimperkem.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/7011
-   registration: https://registrace.sportsoft.cz/main.aspx?e=2042
-   description: '30. Běh do vrchu Vodník'
+- name: 'KKZ'
+  date: 3.3.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'mladší žactvo a níže, obratnostní'
 
- - name: '5 x Vimperkem IV. - kros'
-   date: 5.10. 2021
-   url: /5xvimperkem.html
-   proposition: assets/pr_20211005_kros_5xVimperkem.pdf
-   results: https://sportsoft.cz/en/race/overview/6924
-   registration: https://registrace.sportsoft.cz/main.aspx?e=2041
-   description: 'lyžařský kros'
+- name: 'Jarní běh, KKZ10'
+  date: 19.3.2022
+  url:
+  proposition:
+  results:
+  registration:
+  description: 'Zadov, V, mass.'
 
- - name: '5 x Vimperkem III. - in-line brusle, kolečkové lyže'
-   date: 21.9. 2021
-   url: /5xvimperkem.html
-   proposition: assets/pr_20210921_kolce_5xVimperkem.pdf
-   results: https://sportsoft.cz/en/race/overview/6923
-   registration: https://registrace.sportsoft.cz/main.aspx?e=2039
-   description: 'in-line brusle, kolečkové lyže skate'
+- name: 'Vodnická klása, KKZ'
+  date: 16.1.2022
+  url:
+  proposition: https://sportsoft.cz/Related/2022/Vodnick%C3%A1-kl%C3%A1sa_7139_propozice-z%C3%A1vodu/cs_pr_20220102_vodnicka_klasa.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7139
+  registration: https://registrace.sportsoft.cz/registration.aspx?e=2268&lng=cz
+  description: 'Vimperk, Vodník, klasicky'
 
- - name: '5 x Vimperkem II. - opakáč'
-   date: 14.9. 2021
-   url: /5xvimperkem.html
-   proposition: assets/pr_20210914_opakac_5xVimperkem.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/6922
-   registration: https://registrace.sportsoft.cz/main.aspx?e=2040
-   description: 'opakované běhy'
+- name: '1. obratnostní čtvrtek, KZ'
+  date: 13.1.2022
+  url:
+  proposition: https://sportsoft.cz/Related/2022/1.-obratnostn%C3%AD-%C4%8Dtvrtek_7138_propozice-z%C3%A1vodu/cs_pr_20220113_1obratnostnictvrtek.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7138
+  registration: https://registrace.sportsoft.cz/registration.aspx?e=2267&lng=cz
+  description: 'Vimperk, Vodník, V'
 
- - name: '5 x Vimperkem I. - dráha'
-   date: 7.9.2021
-   url: /5xvimperkem.html
-   proposition: assets/pr_20210907_draha_5xVimperkem.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/6921
-   registration: https://registrace.sportsoft.cz/main.aspx?e=2038
-   description: 'dráha, atletické běhy'
+- name: 'Vodnický otvírák, KKZ1'
+  date: 2.1.2022
+  url:
+  proposition: https://sportsoft.cz/Related/2022/Vodnick%C3%BD-otv%C3%ADr%C3%A1k_7127_propozice-z%C3%A1vodu/cs_pr_20220102_vodnicky_otvirak.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7127
+  registration: https://registrace.sportsoft.cz/registration.aspx?e=2256&lng=cz
+  description: 'Vimperk, Vodník, V, int.'
 
- - name: 'Šumavský MTB Maraton STRABAG'
+- name: '5 x Vimperkem V. - kopec'
+  date: 23.10.2021
+  url: /5xvimperkem.html
+  proposition:  assets/pr_20211023_kopec_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7011
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2042
+  description: '30. Běh do vrchu Vodník'
+
+- name: '5 x Vimperkem IV. - kros'
+  date: 5.10. 2021
+  url: /5xvimperkem.html
+  proposition: assets/pr_20211005_kros_5xVimperkem.pdf
+  results: https://sportsoft.cz/en/race/overview/6924
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2041
+  description: 'lyžařský kros'
+
+- name: '5 x Vimperkem III. - in-line brusle, kolečkové lyže'
+  date: 21.9. 2021
+  url: /5xvimperkem.html
+  proposition: assets/pr_20210921_kolce_5xVimperkem.pdf
+  results: https://sportsoft.cz/en/race/overview/6923
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2039
+  description: 'in-line brusle, kolečkové lyže skate'
+
+- name: '5 x Vimperkem II. - opakáč'
+  date: 14.9. 2021
+  url: /5xvimperkem.html
+  proposition: assets/pr_20210914_opakac_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/6922
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2040
+  description: 'opakované běhy'
+
+- name: '5 x Vimperkem I. - dráha'
+  date: 7.9.2021
+  url: /5xvimperkem.html
+  proposition: assets/pr_20210907_draha_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/6921
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2038
+  description: 'dráha, atletické běhy'
+
+- name: 'Šumavský MTB Maraton STRABAG'
   date: 31. 7. 2021
   url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-strabag/trasy
   proposition:
   results:
   registration:
   description:
-  
- - name: 'Skiroll Classics'
+
+- name: 'Skiroll Classics'
   date: 26. - 27.6.2021
   url: https://registrace.sportsoft.cz/mregistration.aspx?m=301
   proposition: https://sportsoft.cz/Related/2021/SKIROLL-CLASSICS-%C5%A0UMAVA-2021_5734_propozice-z%C3%A1vodu/cs_20210626_prop_Svojse_Kvilda.pdf
@@ -158,26 +159,26 @@
   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=301
   description: 'závod na kolečkových lyžích'
 
- - name: 'Vodnická Brusle'
+- name: 'Vodnická Brusle'
   date: 22.6.2021
-  url: 
+  url:
   proposition: https://sportsoft.cz/Related/2021/Vodnick%C3%A1-brusle_5775_propozice-z%C3%A1vodu/cs_pr_20210622_vodnicka_brusle.pdf
   results: https://registrace.sportsoft.cz/mstartlist.aspx?m=303
   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=303
   description: 'Vimperk, sportovní areál Vodník'
 
- - name: 'Šumavský MTB maraton České spořitelny'
-   date: 1. 8. 2020
-   url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
-   proposition:
-   results:
-   registration:
-   description:
+- name: 'Šumavský MTB maraton České spořitelny'
+  date: 1. 8. 2020
+  url: https://www.kolopro.cz/zavody/race-600-sumavsky-mtb-maraton-ceske-sporitelny
+  proposition:
+  results:
+  registration:
+  description:
 
- - name: 'Efisan Skiroll Classics'
-   date: 18. - 19.7.2020
-   url: https://registrace.sportsoft.cz/mregistration.aspx?m=268
-   proposition: https://sportsoft.cz/Related/2020/Efisan-Skiroll-Classics-%C5%A0umava_5471_propozice-z%C3%A1vodu/cs_20200718_skirollclassics.pdf
-   results: https://sportsoft.cz/cs/zavod/overview/5471
-   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=268
-   description: 'závod na kolečkových lyžích'
+- name: 'Efisan Skiroll Classics'
+  date: 18. - 19.7.2020
+  url: https://registrace.sportsoft.cz/mregistration.aspx?m=268
+  proposition: https://sportsoft.cz/Related/2020/Efisan-Skiroll-Classics-%C5%A0umava_5471_propozice-z%C3%A1vodu/cs_20200718_skirollclassics.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/5471
+  registration: https://registrace.sportsoft.cz/mregistration.aspx?m=268
+  description: 'závod na kolečkových lyžích'
