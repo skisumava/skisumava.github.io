@@ -1,13 +1,5 @@
-- name: 'Český pohár st. žactvo, Vimperk'
-  date: 22.-23.1.2022
-  url:
-  proposition:  assets/pr_cp_zactva_vimperk_20220122.pdf
-  results:
-  registration:
-  description: 'Vimperk, Vodník, starší žactvo'
-
-- name: 'KKZ4'
-  date: 27.1.2022
+- name: 'odloženo pro velkou nemocnost na pozdější termín - KKZ4'
+  date: odloženo - 27.1.2022
   url:
   proposition:
   results:
@@ -78,6 +70,14 @@
   results:
   registration:
   description: 'Zadov, V, mass.'
+
+- name: 'Český pohár st. žactvo, Vimperk'
+  date: 22.-23.1.2022
+  url: /cp-zactva.html
+  proposition:  assets/pr_cp_zactva_vimperk_20220122.pdf
+  results: http://zavody.czech-ski.com/event/details/17069?returnUrl=%2Fresults%2Flist
+  registration:
+  description: 'Vimperk, Vodník, starší žactvo'
 
 - name: 'Vodnická klása, KKZ'
   date: 16.1.2022
