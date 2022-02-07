@@ -1,27 +1,18 @@
-- name: 'odloženo pro velkou nemocnost na pozdější termín - KKZ4'
-  date: odloženo - 27.1.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'mladší žactvo a níže, obratnostní'
-
-
-- name: 'O pohár starosty'
+- name: 'O pohár starosty Kubovy Hutě'
   date: 12.2.2022
   url:
-  proposition:
-  results:
-  registration:
+  proposition: http://sportsoft.cz/Related/2022/O-poh%C3%A1r-starosty-Kubovy-Hut%C4%9B_7153_propozice-z%C3%A1vodu/cs_KH%20o%20pohA~!r%20starosty2022_propozice.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7153
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2282&lng=cz
   description: 'Kubova Huť'
 
-- name: 'Krajský přebor'
+- name: 'Krajský přebor Vodník - volně'
   date: 13.2.2022
   url:
-  proposition:
-  results:
-  registration:
-  description: 'Vimperk, volně'
+  proposition: http://sportsoft.cz/Related/2022/Krajsk%C3%BD-p%C5%99ebor-Vodn%C3%ADk---voln%C4%9B_7154_propozice-z%C3%A1vodu/cs_pr_20220213_KP_Vodnik_volne.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7154
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2283&lng=cz
+  description: 'Vimperk, Vodník'
 
 - name: 'KKZ'
   date: 17.2.2022
