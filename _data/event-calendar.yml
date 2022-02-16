@@ -1,25 +1,9 @@
-- name: 'O pohár starosty Kubovy Hutě'
-  date: 12.2.2022
-  url:
-  proposition: https://sportsoft.cz/Related/2022/O-poh%C3%A1r-starosty-Kubovy-Hut%C4%9B_7153_propozice-z%C3%A1vodu---revize/cs_KH%20o%20poh%C3%A1r%20starosty2022_propozice.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/7153
-  registration: http://registrace.sportsoft.cz/registration.aspx?e=2282&lng=cz
-  description: 'Zadov'
-
-- name: 'Krajský přebor Vodník - volně'
-  date: 13.2.2022
-  url:
-  proposition: http://sportsoft.cz/Related/2022/Krajsk%C3%BD-p%C5%99ebor-Vodn%C3%ADk---voln%C4%9B_7154_propozice-z%C3%A1vodu/cs_pr_20220213_KP_Vodnik_volne.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/7154
-  registration: http://registrace.sportsoft.cz/registration.aspx?e=2283&lng=cz
-  description: 'Vimperk, Vodník'
-
-- name: 'KKZ'
+- name: 'VOBR, KKZ'
   date: 17.2.2022
   url:
-  proposition:
-  results:
-  registration:
+  proposition: http://sportsoft.cz/Related/2022/VOBR_7158_propozice-z%C3%A1vodu/cs_pr_20220217_vobr.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7158
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2290&lng=cz
   description: 'prťata, obratnostní'
 
 - name: 'Český pohár dorost, Zadov'
@@ -61,6 +45,22 @@
   results:
   registration:
   description: 'Zadov, V, mass.'
+
+- name: 'Krajský přebor Vodník - volně'
+  date: 13.2.2022
+  url:
+  proposition: http://sportsoft.cz/Related/2022/Krajsk%C3%BD-p%C5%99ebor-Vodn%C3%ADk---voln%C4%9B_7154_propozice-z%C3%A1vodu/cs_pr_20220213_KP_Vodnik_volne.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7154
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2283&lng=cz
+  description: 'Vimperk, Vodník'
+
+- name: 'O pohár starosty Kubovy Hutě'
+  date: 12.2.2022
+  url:
+  proposition: https://sportsoft.cz/Related/2022/O-poh%C3%A1r-starosty-Kubovy-Hut%C4%9B_7153_propozice-z%C3%A1vodu---revize/cs_KH%20o%20poh%C3%A1r%20starosty2022_propozice.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7153
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2282&lng=cz
+  description: 'Zadov'
 
 - name: 'Český pohár st. žactvo, Vimperk'
   date: 22.-23.1.2022
