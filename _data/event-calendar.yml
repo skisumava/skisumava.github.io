@@ -1,27 +1,3 @@
-- name: 'VOBR, KKZ'
-  date: 17.2.2022
-  url:
-  proposition: http://sportsoft.cz/Related/2022/VOBR_7158_propozice-z%C3%A1vodu/cs_pr_20220217_vobr.pdf
-  results: https://sportsoft.cz/cs/zavod/overview/7158
-  registration: http://registrace.sportsoft.cz/registration.aspx?e=2290&lng=cz
-  description: 'prťata, obratnostní'
-
-- name: 'Český pohár dorost, Zadov'
-  date: 19.-20.2.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Zadov'
-
-- name: 'Stašská 15, KKZ2'
-  date: 22.2.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Zadov, K'
-
 - name: 'Šumavský skimaraton TV NOVA'
   date: 26. - 27. 2. 2022
   url: http://www.skimaraton.cz/main.aspx?lng=cz
@@ -173,3 +149,11 @@
   results: https://sportsoft.cz/cs/zavod/overview/5471
   registration: https://registrace.sportsoft.cz/mregistration.aspx?m=268
   description: 'závod na kolečkových lyžích'
+
+#- name: 'VOBR, KKZ'
+#  date: 17.2.2022
+#  url:
+#  proposition: http://sportsoft.cz/Related/2022/VOBR_7158_propozice-z%C3%A1vodu/cs_pr_20220217_vobr.pdf
+#  results: https://sportsoft.cz/cs/zavod/overview/7158
+#  registration: http://registrace.sportsoft.cz/registration.aspx?e=2290&lng=cz
+#  description: 'prťata, obratnostní'
