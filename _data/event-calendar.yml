@@ -5,7 +5,31 @@
   results: https://sportsoft.cz/cs/zavod/overview/7341
   registration: http://registrace.sportsoft.cz/registration.aspx?e=2437&lng=cz
   description: 'Vimperk, atletický stadion'
+
+- name: 'Vodnická brusle'
+  date: 21.6.2022
+  url:
+  proposition: http://sportsoft.cz/Related/2022/Vodnick%C3%A1-brusle_7342_propozice-z%C3%A1vodu/cs_pr_20220621_vodnicka_brusle.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7342
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=347&lng=cz
+  description: 'Vimperk, sportovní areál Vodník'
+
+- name: 'Skiroll Classics'
+  date: 25. - 26.6.2022
+  url: 
+  proposition: 
+  results:
+  registration: 
+  description: 'závod na kolečkových lyžích'
   
+- name: 'Šumavský MTB Maraton Kooperativy'
+  date: 30. 7. 2022
+  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-kooperativy/trasy
+  proposition:
+  results:
+  registration:
+  description:
+    
 - name: 'Šumavský skimaraton TV NOVA'
   date: 26. - 27. 2. 2022
   url: http://www.skimaraton.cz/main.aspx?lng=cz
