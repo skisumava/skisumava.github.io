@@ -9,26 +9,10 @@
 - name: 'Šumavský skimaraton TV NOVA'
   date: 26. - 27. 2. 2022
   url: http://www.skimaraton.cz/main.aspx?lng=cz
-  proposition: http://skimaraton.cz/main.aspx?lng=cz
+  proposition: http://skimaraton.cz/main.aspx?lng=cz        
   results:
   registration:
   description: 'Kvilda'
-
-- name: 'KKZ'
-  date: 3.3.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'mladší žactvo a níže, obratnostní'
-
-- name: 'Jarní běh, KKZ10'
-  date: 19.3.2022
-  url:
-  proposition:
-  results:
-  registration:
-  description: 'Zadov, V, mass.'
 
 - name: 'Krajský přebor Vodník - volně'
   date: 13.2.2022
