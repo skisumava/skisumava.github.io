@@ -14,12 +14,12 @@
   registration: http://registrace.sportsoft.cz/mregistration.aspx?m=347&lng=cz
   description: 'Vimperk, sportovní areál Vodník'
 
-- name: 'Skiroll Classics'
+- name: 'EDS Skiroll Classics Šumava 2022'
   date: 25. - 26.6.2022
-  url: 
-  proposition: 
-  results:
-  registration: 
+  url: /skirollclassics.html
+  proposition: http://sportsoft.cz/Related/2022/EDS-SKIROLL-CLASSICS-%C5%A0UMAVA-2022_7312_propozice-z%C3%A1vodu/cs_20220625_prop_skiroll_classics.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7312
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=348&lng=cz
   description: 'závod na kolečkových lyžích'
   
 - name: 'Šumavský MTB Maraton Kooperativy'
