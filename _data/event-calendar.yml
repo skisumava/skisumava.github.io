@@ -1,8 +1,64 @@
+- name: '5 x Vimperkem I. - dráha'
+  date: 6.9.2022
+  url: /5xvimperkem.html
+  proposition: assets/pr_20220906_draha_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/6921
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2038
+  description: 'dráha, atletické běhy'
+
+- name: '5 x Vimperkem II. - opakáč'
+  date: 13.9. 2022
+  url: /5xvimperkem.html
+  proposition: assets/pr_20220913_opakac_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/6922
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2040
+  description: 'opakované běhy'
+
+- name: '5 x Vimperkem III. - in-line brusle, kolečkové lyže'
+  date: 20.9. 2022
+  url: /5xvimperkem.html
+  proposition: assets/pr_20220920_kolce_5xVimperkem.pdf
+  results: https://sportsoft.cz/en/race/overview/6923
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2039
+  description: 'in-line brusle, kolečkové lyže skate'
+
+- name: 'Vimperský Vodník - závod v orientačním běhu'
+  date: 24.9. 2022
+  url: 
+  proposition: assets/20220924_Vimperk_Vodnik.pdf
+  results: 
+  registration: 
+  description: 'závod v orientačním běhu'
+
+- name: '5 x Vimperkem IV. - kros'
+  date: 4.10. 2022
+  url: /5xvimperkem.html
+  proposition: assets/pr_20221004_kros_5xVimperkem.pdf
+  results: https://sportsoft.cz/en/race/overview/6924
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2041
+  description: 'lyžařský kros'
+  
+- name: '5 x Vimperkem V. - kopec'
+  date: 16.10.2022
+  url: /5xvimperkem.html
+  proposition:  assets/pr_20221016_kopec_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7011
+  registration: https://registrace.sportsoft.cz/main.aspx?e=2042
+  description: '30. Běh do vrchu Vodník'
+    
+- name: 'Šumavský skimaraton TV NOVA'
+  date: 25. - 26. 2. 2023
+  url: http://www.skimaraton.cz/main.aspx?lng=cz
+  proposition: http://skimaraton.cz/main.aspx?lng=cz        
+  results:
+  registration:
+  description: 'Kvilda'
+
 - name: 'Šumavský MTB Maraton Kooperativy'
   date: 30. 7. 2022
   url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-kooperativy/trasy
   proposition:
-  results:
+  results: https://sportsoft.cz/cs/zavod/overview/7275
   registration:
   description:
 
