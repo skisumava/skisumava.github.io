@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v14.0&appId=399122466810229&autoLogAppEvents=1" nonce="dtyjBuO4"></script>
+
 <header id="masthead" >
     <div class="overlay-layer-wrap">
         <div class=" overlay-layer">
@@ -18,18 +21,6 @@ layout: default
     <div class="container">
         <div class="row main-info" >
             <div class="col-md-7 post rounded" >
-
-                <div class="alert alert-info" role="alert">
-                    <h2><a href="/cp-zactva">Český pohár žactva </a></h2>
-                    <a href="/cp-zactva"><img src="img/cp-zactvo-img_full.jpg" class="rounded img-thumbnail"></a>
-                    <div class="float-none mt-2">
-                        Český pohár v běhu na lyžích - starší žactvo.
-                        <ul>
-                            <li>Vimperk - lyžařský areál Vodník</li>
-                            <li>22.1 - 23. 1. 2022</li>
-                        </ul>
-                    </div>
-                </div>
 
                 {% for post in site.posts limit:2 %}
                     <h3>
@@ -51,7 +42,7 @@ layout: default
 
     		<div class="col-md-5">
     			<div id="fb-root"></div>
-    			  <script>
+    			  <!-- <script>
     			      (function(d, s, id)
     			      {
     			          var js, fjs = d.getElementsByTagName(s)[0];
@@ -62,8 +53,11 @@ layout: default
     			      }(document, 'script', 'facebook-jssdk'));
     			    </script>
     			  <div class="fb-page" data-href="https://www.facebook.com/skisumavavimperk/" data-tabs="timeline" data-width="500"  data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
-    			  <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/skisumavavimperk/"><a href="https://www.facebook.com/skisumavavimperk/">Fischer Ski klub Šumava Vimperk</a></blockquote>
-    			</div>
+    			  <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/skisumavavimperk/"><a href="https://www.facebook.com/skisumavavimperk/">Fischer Ski klub Šumava Vimperk</a></blockquote> -->
+                  <div class="fb-page" data-href="https://www.facebook.com/skisumavavimperk/" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                    <blockquote cite="https://www.facebook.com/skisumavavimperk/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/skisumavavimperk/">Ski klub Šumava Vimperk</a></blockquote>
+                </div>
+                </div>
     		</div>
         </div>
     </div>
