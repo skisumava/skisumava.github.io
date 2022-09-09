@@ -29,7 +29,9 @@ layout: default
                     <p class="font-weight-bold">
                         Autor: {{ post.author}} <small> | {{ post.date | date:"%Y:%m:%d"  }} </small>
                     </p>
-                    <img src="{{ post.preview-image }}" class="img-fluid mb-3" alt="Responsive image">
+                    {% if post.preview-image  %}
+                        <img src="{{ post.preview-image }}" class="img-fluid mb-3" alt="Responsive image">
+                    {% endif %}
                     <div class="content">
                      {{ post.excerpt }}
                     </div>
