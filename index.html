@@ -27,7 +27,7 @@ layout: default
                         <a href="{{ post.url }}">{{ post.title }}</a>
                     </h3>
                     <p class="font-weight-bold">
-                        Autor: {{ post.author}} <small> | {{ post.date | date:"%Y:%m:%d"  }} </small>
+                        Autor: {{ post.author}} <small> | {{ post.date | date:"%Y.%m.%d"  }} </small>
                     </p>
                     {% if post.preview-image  %}
                         <img src="{{ post.preview-image }}" class="img-fluid mb-3" alt="Responsive image">
