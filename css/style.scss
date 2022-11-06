@@ -113,12 +113,12 @@ nav.navbar .nav-item a.lang-en
 	padding-top: 15px;
 }
 
-#calendar ul
+#results-calendar-container ul
 {
 	overflow: auto;
 }
 
-#calendar ul li div a::before {
+#results-calendar-container ul li div a::before {
    	content: " | "
 }
 
@@ -231,6 +231,26 @@ nav.navbar .nav-item a.lang-en
 	background-color: rgba(238,238,78,0.85);
 	display: none;
 }
+
+#result-archive ul li.list-group-item.active 
+{
+    background-color: black;
+    color:rgb(238,238,78);
+    border-color:black;
+}
+
+#result-archive  ul li div a::before {
+    content: " | "
+}
+
+#result-archive  .nav a {
+    border-right:1px solid rgba(0,0,0,1)
+}
+
+#result-archive  .nav a.disabled::before {
+    content: ""
+}
+
 
 #kontakt div.row img.img-thumbnail
 {

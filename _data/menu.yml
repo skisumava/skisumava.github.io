@@ -5,13 +5,13 @@
 #   url:  '/#vodnik-kalendar'
 
 - name: Kalendář závodů
-  url:  '/#calendar'
+  url:  '/#results-calendar-container'
 
 - name: Pořádáme
   url: '/#projects'
 
-- name: ČP Žactva
-  url: '/cp-zactva'
+# - name: ČP Žactva
+#   url: '/cp-zactva'
 
 - name: Team
   url: '/team'

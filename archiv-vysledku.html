@@ -1,0 +1,86 @@
+---
+layout: default
+title: Archiv výsledků
+---
+
+<div class="container mt-5 mb-5" id="result-archive">
+
+    <h1> Archiv výsledků</h1>
+    <div class="mt-4 mb-4">
+        <nav class="nav">
+            <a class="nav-link disabled"><strong>Výsedky</strong></a>
+            {% assign sorted = site.data.event-calendar | sort: 'date' | reverse %}
+
+            {% assign postsByYear = sorted | group_by_exp:"post", "post.date | date: '%Y'" %}
+            {% for year in postsByYear %}
+                <a class="nav-link" href="#year-{{ year.name }}">{{ year.name }}</a>
+            {% endfor %}
+            
+        </nav>
+    </div>
+
+    {% assign sorted = site.data.event-calendar | sort: 'date' | reverse %}
+
+    {% assign postsByYear = sorted | group_by_exp:"post", "post.date | date: '%Y'" %}
+    {% for year in postsByYear %}
+        <ul class="list-group mb-4">
+            <li class="list-group-item active" id="year-{{ year.name }}"><h4>{{ year.name }}</h4></li>
+            {% for event in year.items %}
+
+                {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                {% capture eventdate %}{{event.date  | date: '%s'}}{% endcapture %}
+                
+                {% if eventdate <= nowunix %}
+                    <li class="list-group-item">
+                        <h5>
+                            {% if event.url %}
+                                <a href="{{ event.url }}" >{{ event.name }}</a>
+                            {% else %}
+                                {{ event.name }}
+                            {% endif %}
+                        </h5>
+                        <div>
+                            {% if event.human-date %}
+                                {{ event.human-date }}
+                            {% else %}
+                                {{ event.date | date : "%d.%m.%Y"}}
+                            {% endif %}
+                            {% if event.proposition %}
+                                <a href="{{ event.proposition }}"> Propozice </a>
+                            {% endif %}
+                            {% if event.results %}
+                                <a href="{{ event.results }}"> Výsledky </a>
+                            {% endif %}
+                            {% if event.description %}
+                                <p>
+                                    {{ event.description }}
+                                </p>
+                            {% endif %}
+                        <div>
+                    </li>
+                {% endif %}
+            
+            {% endfor %}
+        </ul>
+    {% endfor %}
+
+</div>
+
+<script type="text/javascript">
+
+    $("#result-archive .nav a").on('click', function(e) {
+
+        // prevent default anchor click behavior
+        e.preventDefault();
+        // store hash
+        var hash = this.hash;
+        $('html, body').animate({
+            scrollTop: $(hash).offset().top 
+            }, 1000, function(){
+        // when done, add hash to url
+        window.location.hash = hash;
+        });
+
+    });
+
+</script>
