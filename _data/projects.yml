@@ -1,9 +1,9 @@
 
-- name: ČT Šumavský skimaraton
+- name: Šumavský skimaraton TV NOVA
   url: http://www.skimaraton.cz/main.aspx?lng=cz
   bg-image: /img/logo_sm.png
 
-- name: Šumavský MTB Maraton STRABAG
+- name: Šumavský MTB Maraton Kooperativy
   url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-strabag/trasy
   bg-image: /img/logo_kpz_sumavsky_mtb.jpg
 
