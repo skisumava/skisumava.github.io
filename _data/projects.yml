@@ -1,10 +1,10 @@
 
 - name: Šumavský skimaraton TV NOVA
-  url: http://www.skimaraton.cz/main.aspx?lng=cz
+  url: https://www.skimaraton.cz/
   bg-image: /img/logo_sm.png
 
 - name: Šumavský MTB Maraton Kooperativy
-  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-strabag/trasy
+  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-kooperativy/trasy
   bg-image: /img/logo_kpz_sumavsky_mtb.jpg
 
 - name: Skiroll Classics
