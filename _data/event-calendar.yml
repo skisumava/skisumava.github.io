@@ -1,5 +1,37 @@
+- name: 'Lyžuj lesy - závod pro školy'
+  date: 2023-02-14
+  url:
+  proposition: 
+  results: 
+  registration: 
+  description: 'Vimperk'
+
+- name: 'Lyžuj lesy - závod pro školy'
+  date: 2023-02-14
+  url:
+  proposition: 
+  results: 
+  registration: 
+  description: 'Vimperk'
+
+- name: 'KP Vodník - skate'
+  date: 2023-02-12
+  url:
+  proposition: 
+  results: 
+  registration: 
+  description: 'Vimperk'
+
+- name: 'O pohár starosty Kubovy Hutě'
+  date: 2023-02-11
+  url:
+  proposition: 
+  results: 
+  registration: 
+  description: 'Kubova Huť'
+
 - name: 'Šumavský skimaraton TV NOVA'
-  date: 2023-02-26
+  date: 2023-02-25
   human-date: 25 - 26.2.2023
   url: http://www.skimaraton.cz/main.aspx?lng=cz
   proposition: http://skimaraton.cz/main.aspx?lng=cz        
