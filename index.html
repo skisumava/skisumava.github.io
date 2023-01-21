@@ -217,8 +217,9 @@ use-fb-plugin: true
     var ChangeFBPagePlugin = function () {
         var oW = Number($(".main-info").outerWidth());
         var containerWidth = Math.floor(oW - $(".post").outerWidth())
+        var containerHeight = Math.floor(Number($(".main-info .post").outerHeight()));
         if (!isNaN(containerWidth)) {
-            $(".fb-page").attr("data-height", containerWidth);
+            $(".fb-page").attr("data-height", containerHeight);
             if (!isNaN(containerWidth)){
                 if (containerWidth > 100)
                     $(".fb-page").attr("data-width", containerWidth);
