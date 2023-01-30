@@ -1,5 +1,8 @@
-- name: Starý web
-  url: http://old.skisumava.cz/main.aspx
+- name: Hledáme Nové Talenty
+  url: '/hnt-zactva'
+
+# - name: Starý web
+#   url: http://old.skisumava.cz/main.aspx
 #
 # - name: Vodník - rozpis tréninků
 #   url:  '/#vodnik-kalendar'
@@ -9,9 +12,6 @@
 
 - name: Pořádáme
   url: '/#projects'
-
-# - name: ČP Žactva
-#   url: '/cp-zactva'
 
 - name: Team
   url: '/team'
