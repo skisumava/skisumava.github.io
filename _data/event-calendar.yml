@@ -17,18 +17,18 @@
 
 - name: 'KP Vodník - skate'
   date: 2023-02-12
-  url:
-  proposition: 
-  results: 
-  registration: 
+  url: 
+  proposition: http://sportsoft.cz/Related/2023/Krajsk%C3%BD-p%C5%99ebor-Vodn%C3%ADk---voln%C4%9B_7707_propozice-z%C3%A1vodu/cs_pr_20230212_KP_Vodnik_volne.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7707
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2771&lng=cz
   description: 'Vimperk'
 
 - name: 'O pohár starosty Kubovy Hutě'
   date: 2023-02-11
   url:
-  proposition: 
-  results: 
-  registration: 
+  proposition: http://sportsoft.cz/Related/2023/O-poh%C3%A1r-starosty-Kubovy-Hut%C4%9B_7706_propozice-z%C3%A1vodu/cs_Propozice%20O%20pohar%20starosty%20KH_2023.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/7706
+  registration: http://registrace.sportsoft.cz/registration.aspx?e=2772&lng=cz
   description: 'Kubova Huť'
 
 - name: 'Šumavský skimaraton TV NOVA'
