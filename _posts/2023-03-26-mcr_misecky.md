@@ -17,7 +17,7 @@ Gratulujeme všem i těm co se nedostali na stupně vítězů a přejeme hodně 
 
 <!--more-->
 
- výsledky: 
+Výsledky: 
 pátek  - sprint klasicky:
 U16W - 14. Marie Machová, U16M - 7. Hynek Steinbach, Petr Vondraš, U18W - 23. Viktorie Kahounová, 25. Tereza Czerwenková, U18M - 9. Lukáš Antoš, 14. David Vyskočil, 19. Jan Böhm, ženy/juniorky - 3. Anežka Honsová, 7. Iva Vránová, muži/junioři - 13. Šimon Pavlásek, 21. Ondřej Hanzal
 sobota - team sprint volně: 
