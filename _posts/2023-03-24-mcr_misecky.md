@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "LYŽUJ LESY VIMPERK - 2023"
+title: "MČR Horní Mísečky a 96. ročník Hančova memoriálu"
 preview-image: "/img/20230326_mcr_honsova.jpg"
 author: Karel Hudeček
 excerpt_separator: <!--more-->
 ---
-
-MČR Horní Mísečky a 96. ročník Hančova memoriálu
-
 
 Poslední březnový víkend byl i poslední závodní pro dorostence a dospělé lyžaře běžce. Na Horních Mísečkách byly rozdány medaile v rámci MČR  a 96.ročníku Hančova memoriálu.
 Ski klub Šumava Vimperk zakončil sezónu získáním ještě šesti cenných kovů. 
