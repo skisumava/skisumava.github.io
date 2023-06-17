@@ -1,6 +1,15 @@
+- name: 'Vodnikcká brusle'
+  date: 2023-06-21
+  human-date: 21.06.2023
+  url: "assets/pr_2023_vodnicka_brusle.pdf"
+  proposition: "assets/pr_2023_vodnicka_brusle.pdf"
+  results:
+  registration: 
+  description: 'Vimperk, sportovní areál vodník'
+
 - name: 'Vimperská čokoládová tretra'
   date: 2023-06-06
-  human-date: 04-05.2.2023
+  human-date: 06.06.2023
   url: https://sportsoft.cz/cs/zavod/overview/7839
   proposition: https://sportsoft.cz/Related/2023/Vimpersk%C3%A1-%C4%8Dokol%C3%A1dov%C3%A1-tretra_7839_propozice-z%C3%A1vodu/cs_pr_20230606_vimperska_tretra.pdf
   results: https://sportsoft.cz/cs/zavod/overview/7839
