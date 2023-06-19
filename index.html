@@ -131,6 +131,9 @@ use-fb-plugin: true
                                         {% if event.proposition %}
                                             <a href="{{ event.proposition }}"> Propozice </a>
                                         {% endif %}
+                                        {% if event.registration %}
+                                            <a href="{{ event.registration }}"> Registrace </a>
+                                        {% endif %}
                                         
                                         {% if event.description %}
                                             <p>
