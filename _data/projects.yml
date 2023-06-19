@@ -4,12 +4,8 @@
   bg-image: /img/logo_sm.png
 
 - name: Šumavský MTB Maraton Kooperativy
-  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-kooperativy/trasy
+  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-kooperativy/propozice
   bg-image: /img/logo_kpz_sumavsky_mtb.jpg
-
-- name: Skiroll Classics
-  url: http://skisumava.cz/skirollclassics
-  bg-image: /img/logo_skiroll.jpg
 
 - name: seriál závodů 5x Vimperkem
   url: 5xvimperkem.html
