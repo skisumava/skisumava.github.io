@@ -37,3 +37,8 @@
   url: http://www.autojm.cz/
   cssid: partner-autojm
   image: '/img/logo_auto_jm.jpg'
+
+- name: "Národní sportovní agentura"
+  url: https://agenturasport.cz/
+  cssid: partner-autojm
+  image: '/img/logo_NSA_160.jpg'
