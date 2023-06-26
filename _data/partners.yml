@@ -40,5 +40,10 @@
 
 - name: "Národní sportovní agentura"
   url: https://agenturasport.cz/
-  cssid: partner-autojm
+  cssid: partner-nsa
   image: '/img/logo_NSA_160.jpg'
+
+- name: "Svaz lyžařů ČR"
+  url: https://www.czech-ski.com/
+  cssid: partner-slcr
+  image: '/img/logo_slcr_160.jpg'
