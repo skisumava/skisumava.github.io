@@ -12,35 +12,35 @@
   human-date: 12.09.2023
   url: assets/pr_20230912_opakac_5xVimperkem.pdf
   proposition:
-  results: 
-  registration: 
+  results: https://sportsoft.cz/cs/zavod/overview/8859
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
   description: '5x Vimperkem 2. závod'
 
 - name: '5x Vimperkem - inline & kolečkové lyže skate'
   date: 2023-09-19
   human-date: 19.09.2023
   url: assets/pr_20230919_kolce_5xVimperkem.pdf
-  proposition:
-  results: 
-  registration: 
+  proposition: assets/pr_20230919_kolce_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/8860
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
   description: '5x Vimperkem 3. závod'
 
 - name: '5x Vimperkem - kros'
   date: 2023-10-03
   human-date: 3.10.2023
   url: assets/pr_20231003_kros_5xVimperkem.pdf
-  proposition:
-  results: 
-  registration: 
+  proposition: assets/pr_20231003_kros_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/8861
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
   description: '5x Vimperkem 4. závod'
 
 - name: '5x Vimperkem - běh do vrchu'
   date: 2023-10-14
   human-date: 14.10.2023
   url: assets/pr_20231014_kopec_5xVimperkem.pdf
-  proposition:
-  results: 
-  registration: 
+  proposition: assets/pr_20231014_kopec_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/8862
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
   description: '5x Vimperkem 5. závod'
 
 - name: 'Šumavský MTB Maraton Kooperativy'
