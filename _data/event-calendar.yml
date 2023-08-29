@@ -1,7 +1,7 @@
 - name: '5x Vimperkem - atletika dáha'
   date: 2023-09-05
   human-date: 05.09.2023
-  url: assets/pr_20230905_draha_5xVimperkem.pdf
+  url: http://skisumava.cz/5xvimperkem.html
   proposition: assets/pr_20230905_draha_5xVimperkem.pdf
   results: https://sportsoft.cz/cs/zavod/overview/8858
   registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
@@ -11,7 +11,7 @@
   date: 2023-09-12
   human-date: 12.09.2023
   url: assets/pr_20230912_opakac_5xVimperkem.pdf
-  proposition:
+  proposition: assets/pr_20230912_opakac_5xVimperkem.pdf
   results: https://sportsoft.cz/cs/zavod/overview/8859
   registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
   description: '5x Vimperkem 2. závod'
