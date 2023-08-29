@@ -2,9 +2,9 @@
   date: 2023-09-05
   human-date: 05.09.2023
   url: assets/pr_20230905_draha_5xVimperkem.pdf
-  proposition:
-  results: 
-  registration: 
+  proposition: assets/pr_20230905_draha_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/8858
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=393&lng=cz
   description: '5x Vimperkem 1. závod'
 
 - name: '5x Vimperkem - opakované běhy dáha'
