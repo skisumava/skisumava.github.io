@@ -1,11 +1,7 @@
 
 - name: Šumavský skimaraton TV NOVA
   url: https://www.skimaraton.cz/
-  bg-image: /img/logo_sm.png
-
-- name: Šumavský MTB Maraton Kooperativy
-  url: https://www.kolopro.cz/zavody/sumavsky-mtb-maraton-kooperativy/propozice
-  bg-image: /img/logo_kpz_sumavsky_mtb.jpg
+  bg-image: /img/logo_sm_2024.png
 
 - name: seriál závodů 5x Vimperkem
   url: 5xvimperkem.html
