@@ -1,3 +1,21 @@
+- name: 'Český pohár staršího žactva, Vimperk'
+  date: 2024-01-18
+  human-date: 18-19.1.2024
+  url: /hnt.html
+  proposition:  
+  results: 
+  registration:
+  description: 'Vimperk, Vodník, starší žactvo'
+
+- name: 'Šumavský skimaraton TV NOVA'
+  date: 2024-02-24
+  human-date: 24 - 25.2.2024
+  url: https://www.skimaraton.cz/
+  proposition: https://www.skimaraton.cz/zavod-propozice        
+  results: https://sportsoft.cz/cs/zavod/overview/8851
+  registration: https://registrace.sportsoft.cz/melregistration.aspx?m=390
+  description: 'Kvilda'
+
 - name: '5x Vimperkem - atletika dáha'
   date: 2023-09-05
   human-date: 05.09.2023
