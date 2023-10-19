@@ -1,6 +1,9 @@
-- name: Hledáme Nové Talenty
-  url: '/hnt'
+- name: Český pohár staršího žactva
+  url: '/cp-zactva'
 
+#- name: Hledáme Nové Talenty
+#  url: '/hnt'
+#
 # - name: Starý web
 #   url: http://old.skisumava.cz/main.aspx
 #
