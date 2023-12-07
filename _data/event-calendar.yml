@@ -1,3 +1,30 @@
+- name: 'Jihočeský pohár, Zadov'
+  date: 2023-12-27
+  human-date: 27.12.2023
+  url: 
+  proposition:  
+  results: 
+  registration:
+  description: 'Zadov, FT, obratnost'
+
+- name: 'KP+JčP, Vimperk'
+  date: 2024-01-06
+  human-date: 6.1.2024
+  url: 
+  proposition:  
+  results: 
+  registration:
+  description: 'Vimperk Vodník, FT, interval'
+
+- name: 'Pošumavský pohár+KP+JčP, Vimperk'
+  date: 2024-01-13
+  human-date: 13.1.2024
+  url: 
+  proposition:  
+  results: 
+  registration:
+  description: 'Vimperk Vodník, CL, N-sprint'
+
 - name: 'Český pohár staršího žactva, Vimperk'
   date: 2024-01-18
   human-date: 18-19.1.2024
@@ -7,6 +34,78 @@
   registration:
   description: 'Vimperk, Vodník, starší žactvo'
 
+- name: 'Český pohár dorostu, Zadov (SOSY)'
+  date: 2024-01-27
+  human-date: 27-28.1.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'Zadov, dorost, N-sprint CL,int. 15/10 10/7 7/5 CL'
+
+- name: 'PšP, Hojsova Stráž (SCPL)'
+  date: 2024-01-27
+  human-date: 27.1.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'Hojsova Stráž, mass FT'
+
+- name: 'Hojsova Stráž (SCPL)'
+  date: 2024-01-28
+  human-date: 28.1.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'Hojsova Stráž, int. CT'
+
+- name: 'HNT mladší žactvo, Jablonec n.N. (JBC)'
+  date: 2024-02-03
+  human-date: 3.-4.2.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'Jablonec n.N., mladší žactvo, int.2 CT, mass. 2 CT'
+
+- name: 'PšP, Zlatá lyže Šumavy'
+  date: 2024-02-10
+  human-date: 10.2.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'FT, šdv'
+
+- name: 'KP+JčP, Stašská 15, Zadov (SOSY)'
+  date: 2024-02-11
+  human-date: 11.02.2024
+  url: 
+  proposition:  
+  results: 
+  registration:
+  description: 'Zadov, CT, mass'
+
+- name: 'Český pohár dorostu a dospělých, Horní Mísečky (SKIJ)'
+  date: 2024-02-17
+  human-date: 17-18.2.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'H.Mísečky, dorost+dospělí, Team sprint FT,mass. 50/30 30/20 15/10 10/7 FT'
+
+- name: 'Pošumavský pohár+KP+JčP, Vimperk'
+  date: 2024-02-17
+  human-date: 17.2.2024
+  url: 
+  proposition:  
+  results: 
+  registration:
+  description: 'Vimperk Vodník, CL, int.'
+
 - name: 'Šumavský skimaraton TV NOVA'
   date: 2024-02-24
   human-date: 24 - 25.2.2024
@@ -15,6 +114,52 @@
   results: https://sportsoft.cz/cs/zavod/overview/8851
   registration: https://registrace.sportsoft.cz/melregistration.aspx?m=390
   description: 'Kvilda'
+
+- name: 'MČR staršího žactva, Bedřichov (DULI)'
+  date: 2024-02-23
+  human-date: 23.-25.2.2024
+  url: /hnt.html
+  proposition:  
+  results: 
+  registration:
+  description: 'Bedřichov, starší žactvo, N-sprint CL, int. FT 3-5km, Relay CT/ mass CT'
+
+- name: 'Český pohár dorostu a dospělých, Jablonec (JBC)'
+  date: 2024-03-01
+  human-date: 1-3.3.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'Jablonec Břízky, dorost+dospělí, Sprint FT, int. FT, mass. CT'
+
+- name: 'Český pohár staršího žactva, Boží Dar (SNKV)'
+  date: 2024-03-09
+  human-date: 9-10.3.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'Boží Dar, starší žactvo, mass FT 3-5, pursuit CT 3-5'
+
+- name: 'JčP, Jarní běh, Zadov (SOSY)'
+  date: 2024-03-17
+  human-date: 17.03.2024
+  url: 
+  proposition:  
+  results: 
+  registration:
+  description: 'Zadov, FT, mass'
+
+- name: 'MČR U15, dorostu a dospělých, Horní Mísečky (SKIJ)'
+  date: 2024-03-22
+  human-date: 22-24.3.2024
+  url:
+  proposition:  
+  results: 
+  registration:
+  description: 'H.Mísečky, U15,dorost+dospělí, Sprint FT,relay CT, int. CT'
+
 
 - name: '5x Vimperkem - atletika dáha'
   date: 2023-09-05
