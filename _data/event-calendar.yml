@@ -1,4 +1,4 @@
-- name: 'Jihočeský pohár, Zadov'
+- name: 'Jihočeský pohár, Zadov (SOSY)'
   date: 2023-12-27
   human-date: 27.12.2023
   url: 
@@ -43,23 +43,23 @@
   registration:
   description: 'Zadov, dorost, N-sprint CL,int. 15/10 10/7 7/5 CL'
 
-- name: 'PšP, Hojsova Stráž (SCPL)'
+- name: 'Velká cena Plzně, Hojsova Stráž (SCPL)'
   date: 2024-01-27
   human-date: 27.1.2024
   url:
   proposition:  
   results: 
   registration:
-  description: 'Hojsova Stráž, mass FT'
+  description: 'Hojsova Stráž, int. CT'
 
-- name: 'Hojsova Stráž (SCPL)'
+- name: 'PšP, Velká cena Plzně, Hojsova Stráž (SCPL)'
   date: 2024-01-28
   human-date: 28.1.2024
   url:
   proposition:  
   results: 
   registration:
-  description: 'Hojsova Stráž, int. CT'
+  description: 'Hojsova Stráž, mass. FT'
 
 - name: 'HNT mladší žactvo, Jablonec n.N. (JBC)'
   date: 2024-02-03
