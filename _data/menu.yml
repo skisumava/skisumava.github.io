@@ -1,3 +1,6 @@
+- name: Český pohár dorostu a dospělých
+  url: '/cp-dd'
+
 - name: Český pohár staršího žactva
   url: '/cp-zactva'
 
