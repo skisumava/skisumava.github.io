@@ -163,10 +163,10 @@
 - name: 'Šumavský MTB Maraton'
   date: 2024-07-27
   human-date: 27.07.2024
-  url: 
-  proposition:
+  url: https://www.skisumava.cz/mtb
+  proposition: https://www.skisumava.cz/mtb
   results: 
-  registration: 
+  registration: https://registrace.sportsoft.cz/registration.aspx?e=3011
   description: 'LA Zadov'
 
 
