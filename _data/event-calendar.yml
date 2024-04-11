@@ -1,3 +1,21 @@
+- name: 'Vodnikcká brusle'
+  date: 2024-06-04
+  human-date: 04.06.2024
+  url: https://sportsoft.cz/cs/zavod/overview/10098
+  proposition: 
+  results: https://sportsoft.cz/cs/zavod/overview/10098
+  registration: 
+  description: 'Vimperk, sportovní areál vodník'
+
+- name: 'Vimperská čokoládová tretra'
+  date: 2024-05-28
+  human-date: 28.05.2024
+  url: https://sportsoft.cz/cs/zavod/overview/10097
+  proposition:
+  results: https://sportsoft.cz/cs/zavod/overview/10097
+  registration: 
+  description: 'Vimperk, Atletický stadion'
+
 - name: 'ZRUŠENO - Jihočeský pohár, Zadov (SOSY)'
   date: 2023-12-27
   human-date: 27.12.2023
