@@ -1,8 +1,27 @@
+- name: 'SkiROLL Šumava'
+  date: 2024-08-09
+  human-date: 09. - 10. 08.2024
+  url: 
+  proposition: 
+  results: 
+  registration: 
+  description: 'Vimperk, Horská Kvilda'
+
+- name: 'Šumavský MTB Maraton'
+  date: 2024-07-27
+  human-date: 27.07.2024
+  url: https://www.skisumava.cz/mtb
+  proposition: https://www.skisumava.cz/mtb
+  results: 
+  registration: https://registrace.sportsoft.cz/registration.aspx?e=3011
+  description: 'LA Zadov'
+
+
 - name: 'Vodnikcká brusle - přeloženo na 11.6.2024!!!'
   date: 2024-06-11
   human-date: 11.06.2024
   url: https://sportsoft.cz/cs/zavod/overview/10098
-  proposition: http://sportsoft.cz/Related/2024/Vodnick%C3%A1-brusle-a-ly%C5%BEe_10098_propozice-z%C3%A1vodu/cs_pr_2024_vodnicka_brusle.pdf
+  proposition: https://sportsoft.cz/Related/2024/Vodnick%C3%A1-brusle-a-ly%C5%BEe_10098_propozice-z%C3%A1vodu/cs_pr_2024_vodnicka_brusle_v2.pdf
   results: https://sportsoft.cz/cs/zavod/overview/10098
   registration: http://registrace.sportsoft.cz/mregistration.aspx?m=411&lng=cz
   description: 'Vimperk, sportovní areál vodník'
@@ -177,16 +196,6 @@
   results: 
   registration:
   description: 'H.Mísečky, U15,dorost+dospělí, Sprint FT,relay CT, int. CT'
-
-- name: 'Šumavský MTB Maraton'
-  date: 2024-07-27
-  human-date: 27.07.2024
-  url: https://www.skisumava.cz/mtb
-  proposition: https://www.skisumava.cz/mtb
-  results: 
-  registration: https://registrace.sportsoft.cz/registration.aspx?e=3011
-  description: 'LA Zadov'
-
 
 
 - name: '5x Vimperkem - atletika dáha'
