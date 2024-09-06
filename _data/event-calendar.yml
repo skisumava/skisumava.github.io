@@ -1,46 +1,46 @@
 - name: '5x Vimperkem - atletika dáha'
   date: 2024-09-10
   human-date: 10.09.2024
-  url: 
-  proposition: 
-  results: 
-  registration: 
+  url: https://sportsoft.cz/cs/zavod/overview/10159
+  proposition: http://sportsoft.cz/Related/2024/5-x-Vimperkem---atletick%C3%BD-b%C4%9Bh---dr%C3%A1ha_10159_propozice-z%C3%A1vodu/cs_pr_20240910_draha_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/10159
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=420&lng=cz
   description: '5x Vimperkem 1. závod'
 
 - name: '5x Vimperkem - opakované běhy dáha'
   date: 2024-09-17
   human-date: 17.09.2024
-  url: 
-  proposition: 
-  results: 
-  registration: 
+  url: https://sportsoft.cz/cs/zavod/overview/10160
+  proposition: http://sportsoft.cz/Related/2024/5-x-Vimperkem---opakovan%C3%A9-b%C4%9Bhy_10160_propozice-z%C3%A1vodu/cs_pr_20240917_opakace_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/10160
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=420&lng=cz
   description: '5x Vimperkem 2. závod'
 
 - name: '5x Vimperkem - inline & kolečkové lyže skate'
   date: 2024-09-24
   human-date: 24.09.2024
-  url: 
-  proposition: 
-  results: 
-  registration: 
+  url: https://sportsoft.cz/cs/zavod/overview/10161
+  proposition: http://sportsoft.cz/Related/2024/5-x-Vimperkem---kole%C4%8Dkov%C3%A9-ly%C5%BEe-a-in-line-brusle_10161_propozice-z%C3%A1vodu/cs_pr_20240927_kolce_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/10161
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=420&lng=cz
   description: '5x Vimperkem 3. závod'
 
 - name: '5x Vimperkem - kros'
   date: 2024-10-08
   human-date: 8.10.2024
-  url: 
-  proposition: 
-  results: 
-  registration: 
+  url: https://sportsoft.cz/cs/zavod/overview/10162
+  proposition: http://sportsoft.cz/Related/2024/5-x-Vimperkem---kros_10162_propozice-z%C3%A1vodu/cs_pr_20241008_kros_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/10162
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=420&lng=cz
   description: '5x Vimperkem 4. závod'
 
 - name: '5x Vimperkem - běh do vrchu Vodník'
   date: 2024-10-12
   human-date: 12.10.2024
-  url: 
-  proposition: 
-  results: 
-  registration:
+  url: https://sportsoft.cz/cs/zavod/overview/10163
+  proposition: http://sportsoft.cz/Related/2024/5-x-Vimperkem---B%C4%9Bh-do-vrchu-Vodn%C3%ADk_10163_propozice-z%C3%A1vodu/cs_pr_20241012_kopec_5xVimperkem.pdf
+  results: https://sportsoft.cz/cs/zavod/overview/10163
+  registration: http://registrace.sportsoft.cz/mregistration.aspx?m=420&lng=cz
   description: '5x Vimperkem 5. závod'
 
 
