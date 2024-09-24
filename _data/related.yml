@@ -1,3 +1,15 @@
+- name: JIHOČESKÝ KRAJ 2024 - granty na podporu sportu
+  url: /assets/jc-granty-2024.pdf
+  bg-image: /img/jck.jpg
+
+- name: Národní Sportovní Agentura - MŮJ KLUB 2024.
+  url: /assets/dotace-nsa-2024.pdf
+  bg-image: /img/nsa-logo.png
+
+- name: Nadace ČEZ - Úprava běžeckých stop.
+  url: /assets/nadace-cez-2024.pdf
+  bg-image: /img/nadace-cez-logo.png
+
 - name: JIHOČESKÝ KRAJ 2023 - granty na podporu sportu
   url: /assets/2023_granty_jck_na_podporu_sportu.pdf
   bg-image: /img/jck.jpg
