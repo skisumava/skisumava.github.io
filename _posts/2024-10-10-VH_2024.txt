@@ -6,6 +6,7 @@ author: Karel
 excerpt_separator: <!--more-->
 ---
 
-Valná hromada Ski klubu Šumava Vimperk, z.s se uskuteční ve čtvrtek 10.10.2024 od 19 hodin prostorách restaurace Lotte.
+<a href="https://skisumava.github.io/assets/vh2024_pozvanka.pdf" target="_blank">Valná hromada</a> Ski klubu Šumava Vimperk, z.s se uskuteční ve čtvrtek 10.10.2024 od 19 hodin prostorách restaurace Lotte.
 Všichni členové a příznivci  klubu jsou srdečně zváni.
+
 <!--more-->
