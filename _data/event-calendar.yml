@@ -1,3 +1,21 @@
+- name: 'Štafety dvojic - team sprint'
+  date: 2025-01-12
+  human-date: 12.1.2025
+  url: https://sportsoft.cz/cs/zavod/overview/10212
+  proposition: https://sportsoft.cz/Related/2025/%C5%A0tafety-dvojic---team-sprint_10212_propozice-z%C3%A1vodu/cs_2025_01_12_stafety_dvojic.pdf
+  results: 
+  registration: https://sportsoft.cz/cs/zavod/overview/10212
+  description: 'Norský sprint Vodník'
+
+- name: 'O pohár starosty Kubovy Hutě'
+  date: 2025-01-11
+  human-date: 11.1.2025
+  url: https://sportsoft.cz/cs/zavod/overview/10211
+  proposition: https://sportsoft.cz/Related/2025/O-poh%C3%A1r-starosty-Kubovy-Hut%C4%9B_10211_propozice-z%C3%A1vodu/cs_2025_01_11_OPSKH.pdf
+  results: 
+  registration: https://registrace.sportsoft.cz/registration.aspx?e=3221&lng=cz
+  description: 'O pohár starosty Kubovy Hutě'
+
 - name: 'Vodnický sprint 2025'
   date: 2025-01-04
   human-date: 4.1.2025
